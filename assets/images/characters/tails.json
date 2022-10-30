@@ -1,0 +1,499 @@
+{
+    "tails down note0000": {
+        "name": "tails down note0000",
+        "width": 613,
+        "height": 712,
+        "x": 0,
+        "y": 0
+    },
+    "tails down note0001": {
+        "name": "tails down note0001",
+        "width": 613,
+        "height": 712,
+        "x": 0,
+        "y": 0
+    },
+    "tails down note0002": {
+        "name": "tails down note0002",
+        "width": 605,
+        "height": 725,
+        "x": 613,
+        "y": 0
+    },
+    "tails down note0003": {
+        "name": "tails down note0003",
+        "width": 605,
+        "height": 725,
+        "x": 613,
+        "y": 0
+    },
+    "tails down note0004": {
+        "name": "tails down note0004",
+        "width": 603,
+        "height": 729,
+        "x": 1218,
+        "y": 0
+    },
+    "tails down note0005": {
+        "name": "tails down note0005",
+        "width": 603,
+        "height": 729,
+        "x": 1218,
+        "y": 0
+    },
+    "tails down note0006": {
+        "name": "tails down note0006",
+        "width": 603,
+        "height": 730,
+        "x": 1821,
+        "y": 0
+    },
+    "tails down note0007": {
+        "name": "tails down note0007",
+        "width": 603,
+        "height": 730,
+        "x": 1821,
+        "y": 0
+    },
+    "tails down note0008": {
+        "name": "tails down note0008",
+        "width": 603,
+        "height": 730,
+        "x": 1821,
+        "y": 0
+    },
+    "tails down note0009": {
+        "name": "tails down note0009",
+        "width": 603,
+        "height": 730,
+        "x": 1821,
+        "y": 0
+    },
+    "tails down note0010": {
+        "name": "tails down note0010",
+        "width": 603,
+        "height": 730,
+        "x": 1821,
+        "y": 0
+    },
+    "tails down note0011": {
+        "name": "tails down note0011",
+        "width": 603,
+        "height": 730,
+        "x": 1821,
+        "y": 0
+    },
+    "tails down note0012": {
+        "name": "tails down note0012",
+        "width": 603,
+        "height": 730,
+        "x": 1821,
+        "y": 0
+    },
+    "tails down note0013": {
+        "name": "tails down note0013",
+        "width": 603,
+        "height": 730,
+        "x": 1821,
+        "y": 0
+    },
+    "tails idle dance0000": {
+        "name": "tails idle dance0000",
+        "width": 612,
+        "height": 728,
+        "x": 2424,
+        "y": 0
+    },
+    "tails idle dance0001": {
+        "name": "tails idle dance0001",
+        "width": 611,
+        "height": 726,
+        "x": 3036,
+        "y": 0
+    },
+    "tails idle dance0002": {
+        "name": "tails idle dance0002",
+        "width": 615,
+        "height": 723,
+        "x": 0,
+        "y": 730
+    },
+    "tails idle dance0003": {
+        "name": "tails idle dance0003",
+        "width": 670,
+        "height": 703,
+        "x": 615,
+        "y": 730
+    },
+    "tails idle dance0004": {
+        "name": "tails idle dance0004",
+        "width": 670,
+        "height": 703,
+        "x": 615,
+        "y": 730
+    },
+    "tails idle dance0005": {
+        "name": "tails idle dance0005",
+        "width": 619,
+        "height": 713,
+        "x": 1285,
+        "y": 730
+    },
+    "tails idle dance0006": {
+        "name": "tails idle dance0006",
+        "width": 619,
+        "height": 713,
+        "x": 1285,
+        "y": 730
+    },
+    "tails idle dance0007": {
+        "name": "tails idle dance0007",
+        "width": 613,
+        "height": 717,
+        "x": 1904,
+        "y": 730
+    },
+    "tails idle dance0008": {
+        "name": "tails idle dance0008",
+        "width": 613,
+        "height": 717,
+        "x": 1904,
+        "y": 730
+    },
+    "tails idle dance0009": {
+        "name": "tails idle dance0009",
+        "width": 611,
+        "height": 726,
+        "x": 2517,
+        "y": 730
+    },
+    "tails idle dance0010": {
+        "name": "tails idle dance0010",
+        "width": 611,
+        "height": 726,
+        "x": 2517,
+        "y": 730
+    },
+    "tails idle dance0011": {
+        "name": "tails idle dance0011",
+        "width": 612,
+        "height": 728,
+        "x": 3128,
+        "y": 730
+    },
+    "tails idle dance0012": {
+        "name": "tails idle dance0012",
+        "width": 612,
+        "height": 728,
+        "x": 2424,
+        "y": 0
+    },
+    "tails idle dance0013": {
+        "name": "tails idle dance0013",
+        "width": 612,
+        "height": 728,
+        "x": 2424,
+        "y": 0
+    },
+    "tails idle dance0014": {
+        "name": "tails idle dance0014",
+        "width": 612,
+        "height": 728,
+        "x": 2424,
+        "y": 0
+    },
+    "tails left note0000": {
+        "name": "tails left note0000",
+        "width": 675,
+        "height": 751,
+        "x": 0,
+        "y": 1458
+    },
+    "tails left note0001": {
+        "name": "tails left note0001",
+        "width": 675,
+        "height": 751,
+        "x": 0,
+        "y": 1458
+    },
+    "tails left note0002": {
+        "name": "tails left note0002",
+        "width": 675,
+        "height": 751,
+        "x": 675,
+        "y": 1458
+    },
+    "tails left note0003": {
+        "name": "tails left note0003",
+        "width": 675,
+        "height": 751,
+        "x": 675,
+        "y": 1458
+    },
+    "tails left note0004": {
+        "name": "tails left note0004",
+        "width": 673,
+        "height": 751,
+        "x": 1350,
+        "y": 1458
+    },
+    "tails left note0005": {
+        "name": "tails left note0005",
+        "width": 673,
+        "height": 751,
+        "x": 1350,
+        "y": 1458
+    },
+    "tails left note0006": {
+        "name": "tails left note0006",
+        "width": 675,
+        "height": 751,
+        "x": 2023,
+        "y": 1458
+    },
+    "tails left note0007": {
+        "name": "tails left note0007",
+        "width": 675,
+        "height": 751,
+        "x": 2023,
+        "y": 1458
+    },
+    "tails left note0008": {
+        "name": "tails left note0008",
+        "width": 675,
+        "height": 751,
+        "x": 2023,
+        "y": 1458
+    },
+    "tails left note0009": {
+        "name": "tails left note0009",
+        "width": 675,
+        "height": 751,
+        "x": 2023,
+        "y": 1458
+    },
+    "tails left note0010": {
+        "name": "tails left note0010",
+        "width": 675,
+        "height": 751,
+        "x": 2023,
+        "y": 1458
+    },
+    "tails left note0011": {
+        "name": "tails left note0011",
+        "width": 675,
+        "height": 751,
+        "x": 2023,
+        "y": 1458
+    },
+    "tails left note0012": {
+        "name": "tails left note0012",
+        "width": 675,
+        "height": 751,
+        "x": 2023,
+        "y": 1458
+    },
+    "tails left note0013": {
+        "name": "tails left note0013",
+        "width": 675,
+        "height": 751,
+        "x": 2023,
+        "y": 1458
+    },
+    "tails right note0000": {
+        "name": "tails right note0000",
+        "width": 760,
+        "height": 710,
+        "x": 2698,
+        "y": 1458
+    },
+    "tails right note0001": {
+        "name": "tails right note0001",
+        "width": 760,
+        "height": 710,
+        "x": 2698,
+        "y": 1458
+    },
+    "tails right note0002": {
+        "name": "tails right note0002",
+        "width": 726,
+        "height": 715,
+        "x": 0,
+        "y": 2209
+    },
+    "tails right note0003": {
+        "name": "tails right note0003",
+        "width": 726,
+        "height": 715,
+        "x": 0,
+        "y": 2209
+    },
+    "tails right note0004": {
+        "name": "tails right note0004",
+        "width": 719,
+        "height": 715,
+        "x": 726,
+        "y": 2209
+    },
+    "tails right note0005": {
+        "name": "tails right note0005",
+        "width": 719,
+        "height": 715,
+        "x": 726,
+        "y": 2209
+    },
+    "tails right note0006": {
+        "name": "tails right note0006",
+        "width": 717,
+        "height": 715,
+        "x": 1445,
+        "y": 2209
+    },
+    "tails right note0007": {
+        "name": "tails right note0007",
+        "width": 717,
+        "height": 715,
+        "x": 1445,
+        "y": 2209
+    },
+    "tails right note0008": {
+        "name": "tails right note0008",
+        "width": 717,
+        "height": 715,
+        "x": 1445,
+        "y": 2209
+    },
+    "tails right note0009": {
+        "name": "tails right note0009",
+        "width": 717,
+        "height": 715,
+        "x": 1445,
+        "y": 2209
+    },
+    "tails right note0010": {
+        "name": "tails right note0010",
+        "width": 717,
+        "height": 715,
+        "x": 1445,
+        "y": 2209
+    },
+    "tails right note0011": {
+        "name": "tails right note0011",
+        "width": 717,
+        "height": 715,
+        "x": 1445,
+        "y": 2209
+    },
+    "tails right note0012": {
+        "name": "tails right note0012",
+        "width": 717,
+        "height": 715,
+        "x": 1445,
+        "y": 2209
+    },
+    "tails right note0013": {
+        "name": "tails right note0013",
+        "width": 717,
+        "height": 715,
+        "x": 1445,
+        "y": 2209
+    },
+    "tails up note0000": {
+        "name": "tails up note0000",
+        "width": 803,
+        "height": 756,
+        "x": 2162,
+        "y": 2209
+    },
+    "tails up note0001": {
+        "name": "tails up note0001",
+        "width": 803,
+        "height": 756,
+        "x": 2162,
+        "y": 2209
+    },
+    "tails up note0002": {
+        "name": "tails up note0002",
+        "width": 801,
+        "height": 745,
+        "x": 2965,
+        "y": 2209
+    },
+    "tails up note0003": {
+        "name": "tails up note0003",
+        "width": 801,
+        "height": 745,
+        "x": 2965,
+        "y": 2209
+    },
+    "tails up note0004": {
+        "name": "tails up note0004",
+        "width": 800,
+        "height": 742,
+        "x": 0,
+        "y": 2965
+    },
+    "tails up note0005": {
+        "name": "tails up note0005",
+        "width": 800,
+        "height": 742,
+        "x": 0,
+        "y": 2965
+    },
+    "tails up note0006": {
+        "name": "tails up note0006",
+        "width": 800,
+        "height": 742,
+        "x": 800,
+        "y": 2965
+    },
+    "tails up note0007": {
+        "name": "tails up note0007",
+        "width": 800,
+        "height": 742,
+        "x": 800,
+        "y": 2965
+    },
+    "tails up note0008": {
+        "name": "tails up note0008",
+        "width": 800,
+        "height": 742,
+        "x": 800,
+        "y": 2965
+    },
+    "tails up note0009": {
+        "name": "tails up note0009",
+        "width": 800,
+        "height": 742,
+        "x": 800,
+        "y": 2965
+    },
+    "tails up note0010": {
+        "name": "tails up note0010",
+        "width": 800,
+        "height": 742,
+        "x": 800,
+        "y": 2965
+    },
+    "tails up note0011": {
+        "name": "tails up note0011",
+        "width": 800,
+        "height": 742,
+        "x": 800,
+        "y": 2965
+    },
+    "tails up note0012": {
+        "name": "tails up note0012",
+        "width": 800,
+        "height": 742,
+        "x": 800,
+        "y": 2965
+    },
+    "tails up note0013": {
+        "name": "tails up note0013",
+        "width": 800,
+        "height": 742,
+        "x": 800,
+        "y": 2965
+    }
+}

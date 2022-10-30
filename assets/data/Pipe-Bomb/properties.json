@@ -1,0 +1,7 @@
+{
+	"scrollSpeed":"2.5",
+	"songBPM": 150,
+	"scripts": [
+		"pipebomb"
+	]
+}

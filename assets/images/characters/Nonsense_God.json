@@ -1,0 +1,800 @@
+{
+	"God down0000": {
+		"name": "God down0000",
+		"width": 482,
+		"height": 667,
+		"x": 0,
+		"y": 0
+	},
+	"God down0001": {
+		"name": "God down0001",
+		"width": 482,
+		"height": 667,
+		"x": 482,
+		"y": 0
+	},
+	"God down0002": {
+		"name": "God down0002",
+		"width": 482,
+		"height": 667,
+		"x": 964,
+		"y": 0
+	},
+	"God down0003": {
+		"name": "God down0003",
+		"width": 482,
+		"height": 667,
+		"x": 1446,
+		"y": 0
+	},
+	"God down0004": {
+		"name": "God down0004",
+		"width": 482,
+		"height": 667,
+		"x": 1446,
+		"y": 0
+	},
+	"God down0005": {
+		"name": "God down0005",
+		"width": 482,
+		"height": 667,
+		"x": 1446,
+		"y": 0
+	},
+	"God down0006": {
+		"name": "God down0006",
+		"width": 482,
+		"height": 667,
+		"x": 1446,
+		"y": 0
+	},
+	"God down0007": {
+		"name": "God down0007",
+		"width": 482,
+		"height": 667,
+		"x": 1446,
+		"y": 0
+	},
+	"God down0008": {
+		"name": "God down0008",
+		"width": 482,
+		"height": 667,
+		"x": 1446,
+		"y": 0
+	},
+	"God down0009": {
+		"name": "God down0009",
+		"width": 482,
+		"height": 667,
+		"x": 1446,
+		"y": 0
+	},
+	"God down0010": {
+		"name": "God down0010",
+		"width": 482,
+		"height": 667,
+		"x": 1446,
+		"y": 0
+	},
+	"God down0011": {
+		"name": "God down0011",
+		"width": 482,
+		"height": 667,
+		"x": 1446,
+		"y": 0
+	},
+	"God down0012": {
+		"name": "God down0012",
+		"width": 482,
+		"height": 667,
+		"x": 1446,
+		"y": 0
+	},
+	"God down0013": {
+		"name": "God down0013",
+		"width": 482,
+		"height": 667,
+		"x": 1446,
+		"y": 0
+	},
+	"God down0014": {
+		"name": "God down0014",
+		"width": 482,
+		"height": 667,
+		"x": 1446,
+		"y": 0
+	},
+	"God down0015": {
+		"name": "God down0015",
+		"width": 482,
+		"height": 667,
+		"x": 1446,
+		"y": 0
+	},
+	"God down0016": {
+		"name": "God down0016",
+		"width": 482,
+		"height": 667,
+		"x": 1446,
+		"y": 0
+	},
+	"God down0017": {
+		"name": "God down0017",
+		"width": 482,
+		"height": 667,
+		"x": 1446,
+		"y": 0
+	},
+	"God down0018": {
+		"name": "God down0018",
+		"width": 482,
+		"height": 667,
+		"x": 1446,
+		"y": 0
+	},
+	"God down0019": {
+		"name": "God down0019",
+		"width": 482,
+		"height": 667,
+		"x": 1446,
+		"y": 0
+	},
+	"God down0020": {
+		"name": "God down0020",
+		"width": 482,
+		"height": 667,
+		"x": 1446,
+		"y": 0
+	},
+	"God down0021": {
+		"name": "God down0021",
+		"width": 482,
+		"height": 667,
+		"x": 1446,
+		"y": 0
+	},
+	"God down0022": {
+		"name": "God down0022",
+		"width": 482,
+		"height": 667,
+		"x": 1446,
+		"y": 0
+	},
+	"die god0000": {
+		"name": "die god0000",
+		"width": 991,
+		"height": 696,
+		"x": 1928,
+		"y": 0
+	},
+	"die god0001": {
+		"name": "die god0001",
+		"width": 1236,
+		"height": 923,
+		"x": 0,
+		"y": 696
+	},
+	"die god0002": {
+		"name": "die god0002",
+		"width": 1450,
+		"height": 1084,
+		"x": 1236,
+		"y": 696
+	},
+	"die god0003": {
+		"name": "die god0003",
+		"width": 1584,
+		"height": 1166,
+		"x": 0,
+		"y": 1780
+	},
+	"die god0004": {
+		"name": "die god0004",
+		"width": 1692,
+		"height": 1226,
+		"x": 1584,
+		"y": 1780
+	},
+	"die god0005": {
+		"name": "die god0005",
+		"width": 1747,
+		"height": 1277,
+		"x": 0,
+		"y": 3006
+	},
+	"die god0006": {
+		"name": "die god0006",
+		"width": 1838,
+		"height": 1318,
+		"x": 1747,
+		"y": 3006
+	},
+	"die god0007": {
+		"name": "die god0007",
+		"width": 1900,
+		"height": 1357,
+		"x": 0,
+		"y": 4324
+	},
+	"god right0000": {
+		"name": "god right0000",
+		"width": 482,
+		"height": 667,
+		"x": 1900,
+		"y": 4324
+	},
+	"god right0001": {
+		"name": "god right0001",
+		"width": 482,
+		"height": 667,
+		"x": 2382,
+		"y": 4324
+	},
+	"god right0002": {
+		"name": "god right0002",
+		"width": 482,
+		"height": 667,
+		"x": 964,
+		"y": 0
+	},
+	"god right0003": {
+		"name": "god right0003",
+		"width": 482,
+		"height": 667,
+		"x": 1446,
+		"y": 0
+	},
+	"god right0004": {
+		"name": "god right0004",
+		"width": 482,
+		"height": 667,
+		"x": 1446,
+		"y": 0
+	},
+	"god right0005": {
+		"name": "god right0005",
+		"width": 482,
+		"height": 667,
+		"x": 1446,
+		"y": 0
+	},
+	"god right0006": {
+		"name": "god right0006",
+		"width": 482,
+		"height": 667,
+		"x": 1446,
+		"y": 0
+	},
+	"god right0007": {
+		"name": "god right0007",
+		"width": 482,
+		"height": 667,
+		"x": 1446,
+		"y": 0
+	},
+	"god right0008": {
+		"name": "god right0008",
+		"width": 482,
+		"height": 667,
+		"x": 1446,
+		"y": 0
+	},
+	"god right0009": {
+		"name": "god right0009",
+		"width": 482,
+		"height": 667,
+		"x": 1446,
+		"y": 0
+	},
+	"god right0010": {
+		"name": "god right0010",
+		"width": 482,
+		"height": 667,
+		"x": 1446,
+		"y": 0
+	},
+	"god right0011": {
+		"name": "god right0011",
+		"width": 482,
+		"height": 667,
+		"x": 1446,
+		"y": 0
+	},
+	"god right0012": {
+		"name": "god right0012",
+		"width": 482,
+		"height": 667,
+		"x": 1446,
+		"y": 0
+	},
+	"god right0013": {
+		"name": "god right0013",
+		"width": 482,
+		"height": 667,
+		"x": 1446,
+		"y": 0
+	},
+	"god right0014": {
+		"name": "god right0014",
+		"width": 482,
+		"height": 667,
+		"x": 1446,
+		"y": 0
+	},
+	"god right0015": {
+		"name": "god right0015",
+		"width": 482,
+		"height": 667,
+		"x": 1446,
+		"y": 0
+	},
+	"god right0016": {
+		"name": "god right0016",
+		"width": 482,
+		"height": 667,
+		"x": 1446,
+		"y": 0
+	},
+	"god right0017": {
+		"name": "god right0017",
+		"width": 482,
+		"height": 667,
+		"x": 1446,
+		"y": 0
+	},
+	"god right0018": {
+		"name": "god right0018",
+		"width": 482,
+		"height": 667,
+		"x": 1446,
+		"y": 0
+	},
+	"god right0019": {
+		"name": "god right0019",
+		"width": 482,
+		"height": 667,
+		"x": 1446,
+		"y": 0
+	},
+	"god right0020": {
+		"name": "god right0020",
+		"width": 482,
+		"height": 667,
+		"x": 1446,
+		"y": 0
+	},
+	"god right0021": {
+		"name": "god right0021",
+		"width": 482,
+		"height": 667,
+		"x": 1446,
+		"y": 0
+	},
+	"god right0022": {
+		"name": "god right0022",
+		"width": 482,
+		"height": 667,
+		"x": 1446,
+		"y": 0
+	},
+	"god up long note0000": {
+		"name": "god up long note0000",
+		"width": 482,
+		"height": 673,
+		"x": 2864,
+		"y": 4324
+	},
+	"god up long note0001": {
+		"name": "god up long note0001",
+		"width": 482,
+		"height": 673,
+		"x": 2864,
+		"y": 4324
+	},
+	"god up long note0002": {
+		"name": "god up long note0002",
+		"width": 482,
+		"height": 669,
+		"x": 3346,
+		"y": 4324
+	},
+	"god up long note0003": {
+		"name": "god up long note0003",
+		"width": 482,
+		"height": 669,
+		"x": 3346,
+		"y": 4324
+	},
+	"god up long note0004": {
+		"name": "god up long note0004",
+		"width": 482,
+		"height": 669,
+		"x": 0,
+		"y": 5681
+	},
+	"god up long note0005": {
+		"name": "god up long note0005",
+		"width": 482,
+		"height": 669,
+		"x": 0,
+		"y": 5681
+	},
+	"god up long note0006": {
+		"name": "god up long note0006",
+		"width": 482,
+		"height": 669,
+		"x": 482,
+		"y": 5681
+	},
+	"god up long note0007": {
+		"name": "god up long note0007",
+		"width": 482,
+		"height": 669,
+		"x": 482,
+		"y": 5681
+	},
+	"god up long note0008": {
+		"name": "god up long note0008",
+		"width": 482,
+		"height": 669,
+		"x": 482,
+		"y": 5681
+	},
+	"god up long note0009": {
+		"name": "god up long note0009",
+		"width": 482,
+		"height": 669,
+		"x": 482,
+		"y": 5681
+	},
+	"god up long note0010": {
+		"name": "god up long note0010",
+		"width": 482,
+		"height": 669,
+		"x": 482,
+		"y": 5681
+	},
+	"god up long note0011": {
+		"name": "god up long note0011",
+		"width": 482,
+		"height": 669,
+		"x": 482,
+		"y": 5681
+	},
+	"god up long note0012": {
+		"name": "god up long note0012",
+		"width": 482,
+		"height": 669,
+		"x": 482,
+		"y": 5681
+	},
+	"god up long note0013": {
+		"name": "god up long note0013",
+		"width": 482,
+		"height": 669,
+		"x": 482,
+		"y": 5681
+	},
+	"god up long note0014": {
+		"name": "god up long note0014",
+		"width": 482,
+		"height": 669,
+		"x": 482,
+		"y": 5681
+	},
+	"god up long note0015": {
+		"name": "god up long note0015",
+		"width": 482,
+		"height": 669,
+		"x": 482,
+		"y": 5681
+	},
+	"god up long note0016": {
+		"name": "god up long note0016",
+		"width": 482,
+		"height": 669,
+		"x": 482,
+		"y": 5681
+	},
+	"god up long note0017": {
+		"name": "god up long note0017",
+		"width": 482,
+		"height": 669,
+		"x": 482,
+		"y": 5681
+	},
+	"god up long note0018": {
+		"name": "god up long note0018",
+		"width": 482,
+		"height": 669,
+		"x": 482,
+		"y": 5681
+	},
+	"god up long note0019": {
+		"name": "god up long note0019",
+		"width": 482,
+		"height": 669,
+		"x": 482,
+		"y": 5681
+	},
+	"god up long note0020": {
+		"name": "god up long note0020",
+		"width": 482,
+		"height": 669,
+		"x": 482,
+		"y": 5681
+	},
+	"god up long note0021": {
+		"name": "god up long note0021",
+		"width": 482,
+		"height": 669,
+		"x": 482,
+		"y": 5681
+	},
+	"idle god0000": {
+		"name": "idle god0000",
+		"width": 474,
+		"height": 657,
+		"x": 964,
+		"y": 5681
+	},
+	"idle god0001": {
+		"name": "idle god0001",
+		"width": 476,
+		"height": 654,
+		"x": 1438,
+		"y": 5681
+	},
+	"idle god0002": {
+		"name": "idle god0002",
+		"width": 476,
+		"height": 654,
+		"x": 1438,
+		"y": 5681
+	},
+	"idle god0003": {
+		"name": "idle god0003",
+		"width": 480,
+		"height": 659,
+		"x": 1914,
+		"y": 5681
+	},
+	"idle god0004": {
+		"name": "idle god0004",
+		"width": 480,
+		"height": 665,
+		"x": 2394,
+		"y": 5681
+	},
+	"idle god0005": {
+		"name": "idle god0005",
+		"width": 480,
+		"height": 665,
+		"x": 2394,
+		"y": 5681
+	},
+	"idle god0006": {
+		"name": "idle god0006",
+		"width": 482,
+		"height": 667,
+		"x": 2874,
+		"y": 5681
+	},
+	"idle god0007": {
+		"name": "idle god0007",
+		"width": 482,
+		"height": 667,
+		"x": 2874,
+		"y": 5681
+	},
+	"idle god0008": {
+		"name": "idle god0008",
+		"width": 482,
+		"height": 667,
+		"x": 2874,
+		"y": 5681
+	},
+	"idle god0009": {
+		"name": "idle god0009",
+		"width": 484,
+		"height": 668,
+		"x": 3356,
+		"y": 5681
+	},
+	"idle god0010": {
+		"name": "idle god0010",
+		"width": 484,
+		"height": 668,
+		"x": 3356,
+		"y": 5681
+	},
+	"idle god0011": {
+		"name": "idle god0011",
+		"width": 484,
+		"height": 668,
+		"x": 3356,
+		"y": 5681
+	},
+	"idle god0012": {
+		"name": "idle god0012",
+		"width": 484,
+		"height": 668,
+		"x": 3356,
+		"y": 5681
+	},
+	"idle god0013": {
+		"name": "idle god0013",
+		"width": 484,
+		"height": 668,
+		"x": 3356,
+		"y": 5681
+	},
+	"idle god0014": {
+		"name": "idle god0014",
+		"width": 484,
+		"height": 668,
+		"x": 3356,
+		"y": 5681
+	},
+	"left god0000": {
+		"name": "left god0000",
+		"width": 482,
+		"height": 667,
+		"x": 0,
+		"y": 6350
+	},
+	"left god0001": {
+		"name": "left god0001",
+		"width": 482,
+		"height": 667,
+		"x": 482,
+		"y": 6350
+	},
+	"left god0002": {
+		"name": "left god0002",
+		"width": 482,
+		"height": 667,
+		"x": 964,
+		"y": 0
+	},
+	"left god0003": {
+		"name": "left god0003",
+		"width": 482,
+		"height": 667,
+		"x": 1446,
+		"y": 0
+	},
+	"left god0004": {
+		"name": "left god0004",
+		"width": 482,
+		"height": 667,
+		"x": 1446,
+		"y": 0
+	},
+	"left god0005": {
+		"name": "left god0005",
+		"width": 482,
+		"height": 667,
+		"x": 1446,
+		"y": 0
+	},
+	"left god0006": {
+		"name": "left god0006",
+		"width": 482,
+		"height": 667,
+		"x": 1446,
+		"y": 0
+	},
+	"left god0007": {
+		"name": "left god0007",
+		"width": 482,
+		"height": 667,
+		"x": 1446,
+		"y": 0
+	},
+	"left god0008": {
+		"name": "left god0008",
+		"width": 482,
+		"height": 667,
+		"x": 1446,
+		"y": 0
+	},
+	"left god0009": {
+		"name": "left god0009",
+		"width": 482,
+		"height": 667,
+		"x": 1446,
+		"y": 0
+	},
+	"left god0010": {
+		"name": "left god0010",
+		"width": 482,
+		"height": 667,
+		"x": 1446,
+		"y": 0
+	},
+	"left god0011": {
+		"name": "left god0011",
+		"width": 482,
+		"height": 667,
+		"x": 1446,
+		"y": 0
+	},
+	"left god0012": {
+		"name": "left god0012",
+		"width": 482,
+		"height": 667,
+		"x": 1446,
+		"y": 0
+	},
+	"left god0013": {
+		"name": "left god0013",
+		"width": 482,
+		"height": 667,
+		"x": 1446,
+		"y": 0
+	},
+	"left god0014": {
+		"name": "left god0014",
+		"width": 482,
+		"height": 667,
+		"x": 1446,
+		"y": 0
+	},
+	"left god0015": {
+		"name": "left god0015",
+		"width": 482,
+		"height": 667,
+		"x": 1446,
+		"y": 0
+	},
+	"left god0016": {
+		"name": "left god0016",
+		"width": 482,
+		"height": 667,
+		"x": 1446,
+		"y": 0
+	},
+	"left god0017": {
+		"name": "left god0017",
+		"width": 482,
+		"height": 667,
+		"x": 1446,
+		"y": 0
+	},
+	"left god0018": {
+		"name": "left god0018",
+		"width": 482,
+		"height": 667,
+		"x": 1446,
+		"y": 0
+	},
+	"left god0019": {
+		"name": "left god0019",
+		"width": 482,
+		"height": 667,
+		"x": 1446,
+		"y": 0
+	},
+	"left god0020": {
+		"name": "left god0020",
+		"width": 482,
+		"height": 667,
+		"x": 1446,
+		"y": 0
+	},
+	"left god0021": {
+		"name": "left god0021",
+		"width": 482,
+		"height": 667,
+		"x": 1446,
+		"y": 0
+	},
+	"left god0022": {
+		"name": "left god0022",
+		"width": 482,
+		"height": 667,
+		"x": 1446,
+		"y": 0
+	}
+}

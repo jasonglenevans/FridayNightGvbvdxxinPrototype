@@ -1,0 +1,10 @@
+{
+	"songBPM":193,
+	"scrollSpeed":3,
+	"scripts":[
+		"camrea",
+		"cinematics",
+		"lyricsBF"
+	],
+	"stage":"green-hill"
+}

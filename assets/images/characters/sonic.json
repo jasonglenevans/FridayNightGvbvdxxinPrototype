@@ -1,0 +1,324 @@
+{
+	"santiago down0000": {
+		"name": "santiago down0000",
+		"width": 370,
+		"height": 457,
+		"x": 25,
+		"y": 25
+	},
+	"santiago down0001": {
+		"name": "santiago down0001",
+		"width": 370,
+		"height": 457,
+		"x": 25,
+		"y": 25
+	},
+	"santiago down0002": {
+		"name": "santiago down0002",
+		"width": 368,
+		"height": 465,
+		"x": 495,
+		"y": 25
+	},
+	"santiago down0003": {
+		"name": "santiago down0003",
+		"width": 368,
+		"height": 465,
+		"x": 495,
+		"y": 25
+	},
+	"santiago down0004": {
+		"name": "santiago down0004",
+		"width": 368,
+		"height": 465,
+		"x": 495,
+		"y": 25
+	},
+	"santiago down0005": {
+		"name": "santiago down0005",
+		"width": 368,
+		"height": 465,
+		"x": 495,
+		"y": 25
+	},
+	"santiago down0006": {
+		"name": "santiago down0006",
+		"width": 368,
+		"height": 465,
+		"x": 495,
+		"y": 25
+	},
+	"santiago down0007": {
+		"name": "santiago down0007",
+		"width": 368,
+		"height": 465,
+		"x": 495,
+		"y": 25
+	},
+	"santiago idle0000": {
+		"name": "santiago idle0000",
+		"width": 392,
+		"height": 470,
+		"x": 963,
+		"y": 25
+	},
+	"santiago idle0001": {
+		"name": "santiago idle0001",
+		"width": 392,
+		"height": 470,
+		"x": 963,
+		"y": 25
+	},
+	"santiago idle0002": {
+		"name": "santiago idle0002",
+		"width": 409,
+		"height": 466,
+		"x": 1455,
+		"y": 25
+	},
+	"santiago idle0003": {
+		"name": "santiago idle0003",
+		"width": 409,
+		"height": 466,
+		"x": 1455,
+		"y": 25
+	},
+	"santiago idle0004": {
+		"name": "santiago idle0004",
+		"width": 400,
+		"height": 482,
+		"x": 1964,
+		"y": 25
+	},
+	"santiago idle0005": {
+		"name": "santiago idle0005",
+		"width": 400,
+		"height": 482,
+		"x": 1964,
+		"y": 25
+	},
+	"santiago idle0006": {
+		"name": "santiago idle0006",
+		"width": 390,
+		"height": 488,
+		"x": 2464,
+		"y": 25
+	},
+	"santiago idle0007": {
+		"name": "santiago idle0007",
+		"width": 390,
+		"height": 488,
+		"x": 2464,
+		"y": 25
+	},
+	"santiago idle0008": {
+		"name": "santiago idle0008",
+		"width": 389,
+		"height": 488,
+		"x": 2954,
+		"y": 25
+	},
+	"santiago idle0009": {
+		"name": "santiago idle0009",
+		"width": 389,
+		"height": 488,
+		"x": 2954,
+		"y": 25
+	},
+	"santiago idle0010": {
+		"name": "santiago idle0010",
+		"width": 389,
+		"height": 488,
+		"x": 2954,
+		"y": 25
+	},
+	"santiago idle0011": {
+		"name": "santiago idle0011",
+		"width": 389,
+		"height": 488,
+		"x": 2954,
+		"y": 25
+	},
+	"santiago idle0012": {
+		"name": "santiago idle0012",
+		"width": 389,
+		"height": 488,
+		"x": 2954,
+		"y": 25
+	},
+	"santiago idle0013": {
+		"name": "santiago idle0013",
+		"width": 389,
+		"height": 488,
+		"x": 2954,
+		"y": 25
+	},
+	"santiago left0000": {
+		"name": "santiago left0000",
+		"width": 393,
+		"height": 487,
+		"x": 3443,
+		"y": 25
+	},
+	"santiago left0001": {
+		"name": "santiago left0001",
+		"width": 393,
+		"height": 487,
+		"x": 3443,
+		"y": 25
+	},
+	"santiago left0002": {
+		"name": "santiago left0002",
+		"width": 394,
+		"height": 487,
+		"x": 25,
+		"y": 613
+	},
+	"santiago left0003": {
+		"name": "santiago left0003",
+		"width": 394,
+		"height": 487,
+		"x": 25,
+		"y": 613
+	},
+	"santiago left0004": {
+		"name": "santiago left0004",
+		"width": 394,
+		"height": 487,
+		"x": 25,
+		"y": 613
+	},
+	"santiago left0005": {
+		"name": "santiago left0005",
+		"width": 394,
+		"height": 487,
+		"x": 25,
+		"y": 613
+	},
+	"santiago left0006": {
+		"name": "santiago left0006",
+		"width": 394,
+		"height": 487,
+		"x": 25,
+		"y": 613
+	},
+	"santiago left0007": {
+		"name": "santiago left0007",
+		"width": 394,
+		"height": 487,
+		"x": 25,
+		"y": 613
+	},
+	"santiago right0000": {
+		"name": "santiago right0000",
+		"width": 410,
+		"height": 493,
+		"x": 519,
+		"y": 613
+	},
+	"santiago right0001": {
+		"name": "santiago right0001",
+		"width": 410,
+		"height": 493,
+		"x": 519,
+		"y": 613
+	},
+	"santiago right0002": {
+		"name": "santiago right0002",
+		"width": 412,
+		"height": 483,
+		"x": 1029,
+		"y": 613
+	},
+	"santiago right0003": {
+		"name": "santiago right0003",
+		"width": 412,
+		"height": 483,
+		"x": 1029,
+		"y": 613
+	},
+	"santiago right0004": {
+		"name": "santiago right0004",
+		"width": 412,
+		"height": 483,
+		"x": 1029,
+		"y": 613
+	},
+	"santiago right0005": {
+		"name": "santiago right0005",
+		"width": 412,
+		"height": 483,
+		"x": 1029,
+		"y": 613
+	},
+	"santiago right0006": {
+		"name": "santiago right0006",
+		"width": 412,
+		"height": 483,
+		"x": 1029,
+		"y": 613
+	},
+	"santiago right0007": {
+		"name": "santiago right0007",
+		"width": 412,
+		"height": 483,
+		"x": 1029,
+		"y": 613
+	},
+	"santiago up0000": {
+		"name": "santiago up0000",
+		"width": 384,
+		"height": 522,
+		"x": 1541,
+		"y": 613
+	},
+	"santiago up0001": {
+		"name": "santiago up0001",
+		"width": 384,
+		"height": 522,
+		"x": 1541,
+		"y": 613
+	},
+	"santiago up0002": {
+		"name": "santiago up0002",
+		"width": 378,
+		"height": 499,
+		"x": 2025,
+		"y": 613
+	},
+	"santiago up0003": {
+		"name": "santiago up0003",
+		"width": 378,
+		"height": 499,
+		"x": 2025,
+		"y": 613
+	},
+	"santiago up0004": {
+		"name": "santiago up0004",
+		"width": 378,
+		"height": 499,
+		"x": 2025,
+		"y": 613
+	},
+	"santiago up0005": {
+		"name": "santiago up0005",
+		"width": 378,
+		"height": 499,
+		"x": 2025,
+		"y": 613
+	},
+	"santiago up0006": {
+		"name": "santiago up0006",
+		"width": 378,
+		"height": 499,
+		"x": 2025,
+		"y": 613
+	},
+	"santiago up0007": {
+		"name": "santiago up0007",
+		"width": 378,
+		"height": 499,
+		"x": 2025,
+		"y": 613
+	}
+}

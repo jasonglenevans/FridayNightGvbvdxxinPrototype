@@ -1,0 +1,18 @@
+{
+	"file":"bfools",
+	"health_icon": "icon-bfools",
+	"idle":"BF idle dance",
+	"left":"BF NOTE LEFT",
+	"right":"BF NOTE RIGHT",
+	"up":"BF NOTE UP",
+	"down":"BF NOTE DOWN",
+	"miss_down":"BF MISS",
+	"miss_up":"BF MISS",
+	"miss_left":"BF MISS",
+	"miss_right":"BF MISS",
+	"car":{
+		"name":"BF CAR",
+		"startFrame":0,
+		"speed":3
+	}
+}

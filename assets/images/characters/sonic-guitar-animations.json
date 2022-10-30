@@ -1,0 +1,9 @@
+{
+	"file":"sonicguitar",
+	"health_icon": "icon-sonic",
+	"idle":"sonic guitar idle",
+	"left":"sonic guitar left",
+	"up":"sonic guitar up",
+	"down": "sonic guitar down",
+	"right": "sonic guitar right"
+}

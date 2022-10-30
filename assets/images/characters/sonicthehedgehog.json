@@ -1,0 +1,1416 @@
+{
+	"down miss0000": {
+		"name": "down miss0000",
+		"width": 389,
+		"height": 506,
+		"x": 25,
+		"y": 25
+	},
+	"down miss0001": {
+		"name": "down miss0001",
+		"width": 389,
+		"height": 506,
+		"x": 25,
+		"y": 25
+	},
+	"down miss0002": {
+		"name": "down miss0002",
+		"width": 371,
+		"height": 514,
+		"x": 514,
+		"y": 25
+	},
+	"down miss0003": {
+		"name": "down miss0003",
+		"width": 371,
+		"height": 514,
+		"x": 514,
+		"y": 25
+	},
+	"down miss0004": {
+		"name": "down miss0004",
+		"width": 371,
+		"height": 514,
+		"x": 514,
+		"y": 25
+	},
+	"down miss0005": {
+		"name": "down miss0005",
+		"width": 371,
+		"height": 514,
+		"x": 514,
+		"y": 25
+	},
+	"down miss0006": {
+		"name": "down miss0006",
+		"width": 371,
+		"height": 514,
+		"x": 514,
+		"y": 25
+	},
+	"down miss0007": {
+		"name": "down miss0007",
+		"width": 371,
+		"height": 514,
+		"x": 514,
+		"y": 25
+	},
+	"left miss0000": {
+		"name": "left miss0000",
+		"width": 293,
+		"height": 509,
+		"x": 985,
+		"y": 25
+	},
+	"left miss0001": {
+		"name": "left miss0001",
+		"width": 293,
+		"height": 509,
+		"x": 985,
+		"y": 25
+	},
+	"left miss0002": {
+		"name": "left miss0002",
+		"width": 308,
+		"height": 509,
+		"x": 1378,
+		"y": 25
+	},
+	"left miss0003": {
+		"name": "left miss0003",
+		"width": 308,
+		"height": 509,
+		"x": 1378,
+		"y": 25
+	},
+	"left miss0004": {
+		"name": "left miss0004",
+		"width": 308,
+		"height": 509,
+		"x": 1378,
+		"y": 25
+	},
+	"left miss0005": {
+		"name": "left miss0005",
+		"width": 308,
+		"height": 509,
+		"x": 1378,
+		"y": 25
+	},
+	"left miss0006": {
+		"name": "left miss0006",
+		"width": 308,
+		"height": 509,
+		"x": 1378,
+		"y": 25
+	},
+	"left miss0007": {
+		"name": "left miss0007",
+		"width": 308,
+		"height": 509,
+		"x": 1378,
+		"y": 25
+	},
+	"right miss0000": {
+		"name": "right miss0000",
+		"width": 420,
+		"height": 560,
+		"x": 1786,
+		"y": 25
+	},
+	"right miss0001": {
+		"name": "right miss0001",
+		"width": 420,
+		"height": 560,
+		"x": 1786,
+		"y": 25
+	},
+	"right miss0002": {
+		"name": "right miss0002",
+		"width": 414,
+		"height": 556,
+		"x": 2306,
+		"y": 25
+	},
+	"right miss0003": {
+		"name": "right miss0003",
+		"width": 414,
+		"height": 556,
+		"x": 2306,
+		"y": 25
+	},
+	"right miss0004": {
+		"name": "right miss0004",
+		"width": 414,
+		"height": 556,
+		"x": 2306,
+		"y": 25
+	},
+	"right miss0005": {
+		"name": "right miss0005",
+		"width": 414,
+		"height": 556,
+		"x": 2306,
+		"y": 25
+	},
+	"right miss0006": {
+		"name": "right miss0006",
+		"width": 414,
+		"height": 556,
+		"x": 2306,
+		"y": 25
+	},
+	"right miss0007": {
+		"name": "right miss0007",
+		"width": 414,
+		"height": 556,
+		"x": 2306,
+		"y": 25
+	},
+	"sonic down0000": {
+		"name": "sonic down0000",
+		"width": 380,
+		"height": 481,
+		"x": 2820,
+		"y": 25
+	},
+	"sonic down0001": {
+		"name": "sonic down0001",
+		"width": 380,
+		"height": 481,
+		"x": 2820,
+		"y": 25
+	},
+	"sonic down0002": {
+		"name": "sonic down0002",
+		"width": 377,
+		"height": 475,
+		"x": 3300,
+		"y": 25
+	},
+	"sonic down0003": {
+		"name": "sonic down0003",
+		"width": 377,
+		"height": 475,
+		"x": 3300,
+		"y": 25
+	},
+	"sonic down0004": {
+		"name": "sonic down0004",
+		"width": 377,
+		"height": 475,
+		"x": 3300,
+		"y": 25
+	},
+	"sonic down0005": {
+		"name": "sonic down0005",
+		"width": 377,
+		"height": 475,
+		"x": 3300,
+		"y": 25
+	},
+	"sonic down0006": {
+		"name": "sonic down0006",
+		"width": 377,
+		"height": 475,
+		"x": 3300,
+		"y": 25
+	},
+	"sonic idle0000": {
+		"name": "sonic idle0000",
+		"width": 387,
+		"height": 505,
+		"x": 3777,
+		"y": 25
+	},
+	"sonic idle0001": {
+		"name": "sonic idle0001",
+		"width": 387,
+		"height": 505,
+		"x": 3777,
+		"y": 25
+	},
+	"sonic idle0002": {
+		"name": "sonic idle0002",
+		"width": 391,
+		"height": 513,
+		"x": 4264,
+		"y": 25
+	},
+	"sonic idle0003": {
+		"name": "sonic idle0003",
+		"width": 388,
+		"height": 513,
+		"x": 4755,
+		"y": 25
+	},
+	"sonic idle0004": {
+		"name": "sonic idle0004",
+		"width": 388,
+		"height": 516,
+		"x": 5243,
+		"y": 25
+	},
+	"sonic idle0005": {
+		"name": "sonic idle0005",
+		"width": 388,
+		"height": 516,
+		"x": 5243,
+		"y": 25
+	},
+	"sonic idle0006": {
+		"name": "sonic idle0006",
+		"width": 387,
+		"height": 516,
+		"x": 5731,
+		"y": 25
+	},
+	"sonic idle0007": {
+		"name": "sonic idle0007",
+		"width": 387,
+		"height": 516,
+		"x": 6218,
+		"y": 25
+	},
+	"sonic idle0008": {
+		"name": "sonic idle0008",
+		"width": 387,
+		"height": 516,
+		"x": 6705,
+		"y": 25
+	},
+	"sonic idle0009": {
+		"name": "sonic idle0009",
+		"width": 391,
+		"height": 516,
+		"x": 7192,
+		"y": 25
+	},
+	"sonic idle0010": {
+		"name": "sonic idle0010",
+		"width": 391,
+		"height": 516,
+		"x": 7192,
+		"y": 25
+	},
+	"sonic idle0011": {
+		"name": "sonic idle0011",
+		"width": 391,
+		"height": 516,
+		"x": 7683,
+		"y": 25
+	},
+	"sonic idle0012": {
+		"name": "sonic idle0012",
+		"width": 391,
+		"height": 516,
+		"x": 7683,
+		"y": 25
+	},
+	"sonic idle0013": {
+		"name": "sonic idle0013",
+		"width": 391,
+		"height": 516,
+		"x": 7683,
+		"y": 25
+	},
+	"sonic left0000": {
+		"name": "sonic left0000",
+		"width": 315,
+		"height": 504,
+		"x": 25,
+		"y": 685
+	},
+	"sonic left0001": {
+		"name": "sonic left0001",
+		"width": 315,
+		"height": 504,
+		"x": 25,
+		"y": 685
+	},
+	"sonic left0002": {
+		"name": "sonic left0002",
+		"width": 322,
+		"height": 512,
+		"x": 440,
+		"y": 685
+	},
+	"sonic left0003": {
+		"name": "sonic left0003",
+		"width": 322,
+		"height": 512,
+		"x": 440,
+		"y": 685
+	},
+	"sonic left0004": {
+		"name": "sonic left0004",
+		"width": 322,
+		"height": 512,
+		"x": 440,
+		"y": 685
+	},
+	"sonic left0005": {
+		"name": "sonic left0005",
+		"width": 322,
+		"height": 512,
+		"x": 440,
+		"y": 685
+	},
+	"sonic left0006": {
+		"name": "sonic left0006",
+		"width": 322,
+		"height": 512,
+		"x": 440,
+		"y": 685
+	},
+	"sonic left0007": {
+		"name": "sonic left0007",
+		"width": 322,
+		"height": 512,
+		"x": 440,
+		"y": 685
+	},
+	"sonic oh no0000": {
+		"name": "sonic oh no0000",
+		"width": 391,
+		"height": 516,
+		"x": 862,
+		"y": 685
+	},
+	"sonic oh no0001": {
+		"name": "sonic oh no0001",
+		"width": 391,
+		"height": 516,
+		"x": 862,
+		"y": 685
+	},
+	"sonic oh no0002": {
+		"name": "sonic oh no0002",
+		"width": 391,
+		"height": 516,
+		"x": 862,
+		"y": 685
+	},
+	"sonic oh no0003": {
+		"name": "sonic oh no0003",
+		"width": 391,
+		"height": 516,
+		"x": 862,
+		"y": 685
+	},
+	"sonic oh no0004": {
+		"name": "sonic oh no0004",
+		"width": 391,
+		"height": 516,
+		"x": 1353,
+		"y": 685
+	},
+	"sonic oh no0005": {
+		"name": "sonic oh no0005",
+		"width": 391,
+		"height": 516,
+		"x": 1353,
+		"y": 685
+	},
+	"sonic oh no0006": {
+		"name": "sonic oh no0006",
+		"width": 391,
+		"height": 516,
+		"x": 1844,
+		"y": 685
+	},
+	"sonic oh no0007": {
+		"name": "sonic oh no0007",
+		"width": 391,
+		"height": 516,
+		"x": 1844,
+		"y": 685
+	},
+	"sonic oh no0008": {
+		"name": "sonic oh no0008",
+		"width": 391,
+		"height": 516,
+		"x": 2335,
+		"y": 685
+	},
+	"sonic oh no0009": {
+		"name": "sonic oh no0009",
+		"width": 391,
+		"height": 516,
+		"x": 2335,
+		"y": 685
+	},
+	"sonic oh no0010": {
+		"name": "sonic oh no0010",
+		"width": 388,
+		"height": 514,
+		"x": 2826,
+		"y": 685
+	},
+	"sonic oh no0011": {
+		"name": "sonic oh no0011",
+		"width": 388,
+		"height": 514,
+		"x": 2826,
+		"y": 685
+	},
+	"sonic oh no0012": {
+		"name": "sonic oh no0012",
+		"width": 381,
+		"height": 512,
+		"x": 3314,
+		"y": 685
+	},
+	"sonic oh no0013": {
+		"name": "sonic oh no0013",
+		"width": 381,
+		"height": 512,
+		"x": 3314,
+		"y": 685
+	},
+	"sonic oh no0014": {
+		"name": "sonic oh no0014",
+		"width": 380,
+		"height": 513,
+		"x": 3795,
+		"y": 685
+	},
+	"sonic oh no0015": {
+		"name": "sonic oh no0015",
+		"width": 380,
+		"height": 513,
+		"x": 3795,
+		"y": 685
+	},
+	"sonic oh no0016": {
+		"name": "sonic oh no0016",
+		"width": 380,
+		"height": 513,
+		"x": 4275,
+		"y": 685
+	},
+	"sonic oh no0017": {
+		"name": "sonic oh no0017",
+		"width": 380,
+		"height": 513,
+		"x": 4275,
+		"y": 685
+	},
+	"sonic oh no0018": {
+		"name": "sonic oh no0018",
+		"width": 380,
+		"height": 513,
+		"x": 4755,
+		"y": 685
+	},
+	"sonic oh no0019": {
+		"name": "sonic oh no0019",
+		"width": 380,
+		"height": 513,
+		"x": 4755,
+		"y": 685
+	},
+	"sonic oh no0020": {
+		"name": "sonic oh no0020",
+		"width": 380,
+		"height": 513,
+		"x": 5235,
+		"y": 685
+	},
+	"sonic oh no0021": {
+		"name": "sonic oh no0021",
+		"width": 380,
+		"height": 513,
+		"x": 5235,
+		"y": 685
+	},
+	"sonic oh no0022": {
+		"name": "sonic oh no0022",
+		"width": 380,
+		"height": 513,
+		"x": 5715,
+		"y": 685
+	},
+	"sonic oh no0023": {
+		"name": "sonic oh no0023",
+		"width": 380,
+		"height": 513,
+		"x": 5715,
+		"y": 685
+	},
+	"sonic oh no0024": {
+		"name": "sonic oh no0024",
+		"width": 380,
+		"height": 513,
+		"x": 5715,
+		"y": 685
+	},
+	"sonic oh no0025": {
+		"name": "sonic oh no0025",
+		"width": 380,
+		"height": 513,
+		"x": 5715,
+		"y": 685
+	},
+	"sonic oh no0026": {
+		"name": "sonic oh no0026",
+		"width": 380,
+		"height": 513,
+		"x": 5715,
+		"y": 685
+	},
+	"sonic oh no0027": {
+		"name": "sonic oh no0027",
+		"width": 380,
+		"height": 513,
+		"x": 5715,
+		"y": 685
+	},
+	"sonic oh no0028": {
+		"name": "sonic oh no0028",
+		"width": 380,
+		"height": 513,
+		"x": 5715,
+		"y": 685
+	},
+	"sonic oh no0029": {
+		"name": "sonic oh no0029",
+		"width": 380,
+		"height": 513,
+		"x": 5715,
+		"y": 685
+	},
+	"sonic right0000": {
+		"name": "sonic right0000",
+		"width": 420,
+		"height": 519,
+		"x": 6195,
+		"y": 685
+	},
+	"sonic right0001": {
+		"name": "sonic right0001",
+		"width": 420,
+		"height": 519,
+		"x": 6195,
+		"y": 685
+	},
+	"sonic right0002": {
+		"name": "sonic right0002",
+		"width": 413,
+		"height": 514,
+		"x": 6715,
+		"y": 685
+	},
+	"sonic right0003": {
+		"name": "sonic right0003",
+		"width": 413,
+		"height": 514,
+		"x": 6715,
+		"y": 685
+	},
+	"sonic right0004": {
+		"name": "sonic right0004",
+		"width": 413,
+		"height": 514,
+		"x": 6715,
+		"y": 685
+	},
+	"sonic right0005": {
+		"name": "sonic right0005",
+		"width": 413,
+		"height": 514,
+		"x": 6715,
+		"y": 685
+	},
+	"sonic right0006": {
+		"name": "sonic right0006",
+		"width": 413,
+		"height": 514,
+		"x": 6715,
+		"y": 685
+	},
+	"sonic right0007": {
+		"name": "sonic right0007",
+		"width": 413,
+		"height": 514,
+		"x": 6715,
+		"y": 685
+	},
+	"sonic shut up0000": {
+		"name": "sonic shut up0000",
+		"width": 388,
+		"height": 513,
+		"x": 7228,
+		"y": 685
+	},
+	"sonic shut up0001": {
+		"name": "sonic shut up0001",
+		"width": 388,
+		"height": 513,
+		"x": 7228,
+		"y": 685
+	},
+	"sonic shut up0002": {
+		"name": "sonic shut up0002",
+		"width": 391,
+		"height": 516,
+		"x": 7716,
+		"y": 685
+	},
+	"sonic shut up0003": {
+		"name": "sonic shut up0003",
+		"width": 391,
+		"height": 516,
+		"x": 7716,
+		"y": 685
+	},
+	"sonic shut up0004": {
+		"name": "sonic shut up0004",
+		"width": 391,
+		"height": 516,
+		"x": 25,
+		"y": 1304
+	},
+	"sonic shut up0005": {
+		"name": "sonic shut up0005",
+		"width": 391,
+		"height": 516,
+		"x": 25,
+		"y": 1304
+	},
+	"sonic shut up0006": {
+		"name": "sonic shut up0006",
+		"width": 391,
+		"height": 516,
+		"x": 516,
+		"y": 1304
+	},
+	"sonic shut up0007": {
+		"name": "sonic shut up0007",
+		"width": 391,
+		"height": 516,
+		"x": 516,
+		"y": 1304
+	},
+	"sonic shut up0008": {
+		"name": "sonic shut up0008",
+		"width": 391,
+		"height": 516,
+		"x": 1007,
+		"y": 1304
+	},
+	"sonic shut up0009": {
+		"name": "sonic shut up0009",
+		"width": 391,
+		"height": 516,
+		"x": 1007,
+		"y": 1304
+	},
+	"sonic shut up0010": {
+		"name": "sonic shut up0010",
+		"width": 391,
+		"height": 516,
+		"x": 1498,
+		"y": 1304
+	},
+	"sonic shut up0011": {
+		"name": "sonic shut up0011",
+		"width": 391,
+		"height": 516,
+		"x": 1498,
+		"y": 1304
+	},
+	"sonic shut up0012": {
+		"name": "sonic shut up0012",
+		"width": 391,
+		"height": 516,
+		"x": 1989,
+		"y": 1304
+	},
+	"sonic shut up0013": {
+		"name": "sonic shut up0013",
+		"width": 391,
+		"height": 516,
+		"x": 1989,
+		"y": 1304
+	},
+	"sonic shut up0014": {
+		"name": "sonic shut up0014",
+		"width": 391,
+		"height": 516,
+		"x": 2480,
+		"y": 1304
+	},
+	"sonic shut up0015": {
+		"name": "sonic shut up0015",
+		"width": 391,
+		"height": 516,
+		"x": 2480,
+		"y": 1304
+	},
+	"sonic shut up0016": {
+		"name": "sonic shut up0016",
+		"width": 391,
+		"height": 516,
+		"x": 2971,
+		"y": 1304
+	},
+	"sonic shut up0017": {
+		"name": "sonic shut up0017",
+		"width": 391,
+		"height": 516,
+		"x": 2971,
+		"y": 1304
+	},
+	"sonic shut up0018": {
+		"name": "sonic shut up0018",
+		"width": 391,
+		"height": 516,
+		"x": 2971,
+		"y": 1304
+	},
+	"sonic shut up0019": {
+		"name": "sonic shut up0019",
+		"width": 391,
+		"height": 516,
+		"x": 2971,
+		"y": 1304
+	},
+	"sonic shut up0020": {
+		"name": "sonic shut up0020",
+		"width": 391,
+		"height": 516,
+		"x": 2971,
+		"y": 1304
+	},
+	"sonic shut up0021": {
+		"name": "sonic shut up0021",
+		"width": 391,
+		"height": 516,
+		"x": 2971,
+		"y": 1304
+	},
+	"sonic shut up0022": {
+		"name": "sonic shut up0022",
+		"width": 391,
+		"height": 516,
+		"x": 2971,
+		"y": 1304
+	},
+	"sonic shut up0023": {
+		"name": "sonic shut up0023",
+		"width": 391,
+		"height": 516,
+		"x": 2971,
+		"y": 1304
+	},
+	"sonic shut up0024": {
+		"name": "sonic shut up0024",
+		"width": 391,
+		"height": 516,
+		"x": 2971,
+		"y": 1304
+	},
+	"sonic to guitar0000": {
+		"name": "sonic to guitar0000",
+		"width": 388,
+		"height": 516,
+		"x": 3462,
+		"y": 1304
+	},
+	"sonic to guitar0001": {
+		"name": "sonic to guitar0001",
+		"width": 388,
+		"height": 516,
+		"x": 3462,
+		"y": 1304
+	},
+	"sonic to guitar0002": {
+		"name": "sonic to guitar0002",
+		"width": 391,
+		"height": 513,
+		"x": 3950,
+		"y": 1304
+	},
+	"sonic to guitar0003": {
+		"name": "sonic to guitar0003",
+		"width": 391,
+		"height": 513,
+		"x": 3950,
+		"y": 1304
+	},
+	"sonic to guitar0004": {
+		"name": "sonic to guitar0004",
+		"width": 386,
+		"height": 516,
+		"x": 4441,
+		"y": 1304
+	},
+	"sonic to guitar0005": {
+		"name": "sonic to guitar0005",
+		"width": 386,
+		"height": 516,
+		"x": 4441,
+		"y": 1304
+	},
+	"sonic to guitar0006": {
+		"name": "sonic to guitar0006",
+		"width": 381,
+		"height": 516,
+		"x": 4927,
+		"y": 1304
+	},
+	"sonic to guitar0007": {
+		"name": "sonic to guitar0007",
+		"width": 381,
+		"height": 516,
+		"x": 4927,
+		"y": 1304
+	},
+	"sonic to guitar0008": {
+		"name": "sonic to guitar0008",
+		"width": 385,
+		"height": 516,
+		"x": 5408,
+		"y": 1304
+	},
+	"sonic to guitar0009": {
+		"name": "sonic to guitar0009",
+		"width": 385,
+		"height": 516,
+		"x": 5408,
+		"y": 1304
+	},
+	"sonic to guitar0010": {
+		"name": "sonic to guitar0010",
+		"width": 385,
+		"height": 516,
+		"x": 5408,
+		"y": 1304
+	},
+	"sonic to guitar0011": {
+		"name": "sonic to guitar0011",
+		"width": 385,
+		"height": 516,
+		"x": 5408,
+		"y": 1304
+	},
+	"sonic to guitar0012": {
+		"name": "sonic to guitar0012",
+		"width": 385,
+		"height": 516,
+		"x": 5408,
+		"y": 1304
+	},
+	"sonic to guitar0013": {
+		"name": "sonic to guitar0013",
+		"width": 385,
+		"height": 516,
+		"x": 5408,
+		"y": 1304
+	},
+	"sonic to guitar0014": {
+		"name": "sonic to guitar0014",
+		"width": 385,
+		"height": 516,
+		"x": 5408,
+		"y": 1304
+	},
+	"sonic to guitar0015": {
+		"name": "sonic to guitar0015",
+		"width": 385,
+		"height": 516,
+		"x": 5408,
+		"y": 1304
+	},
+	"sonic to guitar0016": {
+		"name": "sonic to guitar0016",
+		"width": 385,
+		"height": 516,
+		"x": 5408,
+		"y": 1304
+	},
+	"sonic to guitar0017": {
+		"name": "sonic to guitar0017",
+		"width": 385,
+		"height": 516,
+		"x": 5408,
+		"y": 1304
+	},
+	"sonic to guitar0018": {
+		"name": "sonic to guitar0018",
+		"width": 385,
+		"height": 516,
+		"x": 5408,
+		"y": 1304
+	},
+	"sonic to guitar0019": {
+		"name": "sonic to guitar0019",
+		"width": 385,
+		"height": 516,
+		"x": 5408,
+		"y": 1304
+	},
+	"sonic to guitar0020": {
+		"name": "sonic to guitar0020",
+		"width": 385,
+		"height": 516,
+		"x": 5408,
+		"y": 1304
+	},
+	"sonic to guitar0021": {
+		"name": "sonic to guitar0021",
+		"width": 385,
+		"height": 516,
+		"x": 5408,
+		"y": 1304
+	},
+	"sonic to guitar0022": {
+		"name": "sonic to guitar0022",
+		"width": 385,
+		"height": 516,
+		"x": 5408,
+		"y": 1304
+	},
+	"sonic to guitar0023": {
+		"name": "sonic to guitar0023",
+		"width": 385,
+		"height": 516,
+		"x": 5408,
+		"y": 1304
+	},
+	"sonic to guitar0024": {
+		"name": "sonic to guitar0024",
+		"width": 385,
+		"height": 516,
+		"x": 5408,
+		"y": 1304
+	},
+	"sonic to guitar0025": {
+		"name": "sonic to guitar0025",
+		"width": 385,
+		"height": 516,
+		"x": 5408,
+		"y": 1304
+	},
+	"sonic to guitar0026": {
+		"name": "sonic to guitar0026",
+		"width": 385,
+		"height": 516,
+		"x": 5408,
+		"y": 1304
+	},
+	"sonic to guitar0027": {
+		"name": "sonic to guitar0027",
+		"width": 385,
+		"height": 516,
+		"x": 5408,
+		"y": 1304
+	},
+	"sonic to guitar0028": {
+		"name": "sonic to guitar0028",
+		"width": 354,
+		"height": 501,
+		"x": 5893,
+		"y": 1304
+	},
+	"sonic to guitar0029": {
+		"name": "sonic to guitar0029",
+		"width": 354,
+		"height": 501,
+		"x": 5893,
+		"y": 1304
+	},
+	"sonic to guitar0030": {
+		"name": "sonic to guitar0030",
+		"width": 365,
+		"height": 548,
+		"x": 6347,
+		"y": 1304
+	},
+	"sonic to guitar0031": {
+		"name": "sonic to guitar0031",
+		"width": 365,
+		"height": 548,
+		"x": 6347,
+		"y": 1304
+	},
+	"sonic to guitar0032": {
+		"name": "sonic to guitar0032",
+		"width": 276,
+		"height": 260,
+		"x": 6812,
+		"y": 1304
+	},
+	"sonic to guitar0033": {
+		"name": "sonic to guitar0033",
+		"width": 276,
+		"height": 260,
+		"x": 6812,
+		"y": 1304
+	},
+	"sonic to guitar0034": {
+		"name": "sonic to guitar0034",
+		"width": 274,
+		"height": 262,
+		"x": 7188,
+		"y": 1304
+	},
+	"sonic to guitar0035": {
+		"name": "sonic to guitar0035",
+		"width": 274,
+		"height": 262,
+		"x": 7188,
+		"y": 1304
+	},
+	"sonic to guitar0036": {
+		"name": "sonic to guitar0036",
+		"width": 276,
+		"height": 260,
+		"x": 6812,
+		"y": 1304
+	},
+	"sonic to guitar0037": {
+		"name": "sonic to guitar0037",
+		"width": 276,
+		"height": 260,
+		"x": 6812,
+		"y": 1304
+	},
+	"sonic to guitar0038": {
+		"name": "sonic to guitar0038",
+		"width": 302,
+		"height": 562,
+		"x": 7562,
+		"y": 1304
+	},
+	"sonic to guitar0039": {
+		"name": "sonic to guitar0039",
+		"width": 302,
+		"height": 562,
+		"x": 7562,
+		"y": 1304
+	},
+	"sonic to guitar0040": {
+		"name": "sonic to guitar0040",
+		"width": 276,
+		"height": 260,
+		"x": 6812,
+		"y": 1304
+	},
+	"sonic to guitar0041": {
+		"name": "sonic to guitar0041",
+		"width": 276,
+		"height": 260,
+		"x": 6812,
+		"y": 1304
+	},
+	"sonic to guitar0042": {
+		"name": "sonic to guitar0042",
+		"width": 302,
+		"height": 562,
+		"x": 7562,
+		"y": 1304
+	},
+	"sonic to guitar0043": {
+		"name": "sonic to guitar0043",
+		"width": 302,
+		"height": 562,
+		"x": 7562,
+		"y": 1304
+	},
+	"sonic to guitar0044": {
+		"name": "sonic to guitar0044",
+		"width": 276,
+		"height": 260,
+		"x": 6812,
+		"y": 1304
+	},
+	"sonic to guitar0045": {
+		"name": "sonic to guitar0045",
+		"width": 276,
+		"height": 260,
+		"x": 6812,
+		"y": 1304
+	},
+	"sonic to guitar0046": {
+		"name": "sonic to guitar0046",
+		"width": 302,
+		"height": 562,
+		"x": 7562,
+		"y": 1304
+	},
+	"sonic to guitar0047": {
+		"name": "sonic to guitar0047",
+		"width": 264,
+		"height": 501,
+		"x": 25,
+		"y": 1966
+	},
+	"sonic to guitar0048": {
+		"name": "sonic to guitar0048",
+		"width": 235,
+		"height": 433,
+		"x": 389,
+		"y": 1966
+	},
+	"sonic to guitar0049": {
+		"name": "sonic to guitar0049",
+		"width": 375,
+		"height": 105,
+		"x": 724,
+		"y": 1966
+	},
+	"sonic to guitar0050": {
+		"name": "sonic to guitar0050",
+		"width": 375,
+		"height": 105,
+		"x": 724,
+		"y": 1966
+	},
+	"sonic to guitar0051": {
+		"name": "sonic to guitar0051",
+		"width": 276,
+		"height": 261,
+		"x": 1199,
+		"y": 1966
+	},
+	"sonic to guitar0052": {
+		"name": "sonic to guitar0052",
+		"width": 276,
+		"height": 261,
+		"x": 1199,
+		"y": 1966
+	},
+	"sonic to guitar0053": {
+		"name": "sonic to guitar0053",
+		"width": 276,
+		"height": 265,
+		"x": 1575,
+		"y": 1966
+	},
+	"sonic to guitar0054": {
+		"name": "sonic to guitar0054",
+		"width": 276,
+		"height": 265,
+		"x": 1575,
+		"y": 1966
+	},
+	"sonic to guitar0055": {
+		"name": "sonic to guitar0055",
+		"width": 269,
+		"height": 375,
+		"x": 1951,
+		"y": 1966
+	},
+	"sonic to guitar0056": {
+		"name": "sonic to guitar0056",
+		"width": 269,
+		"height": 375,
+		"x": 1951,
+		"y": 1966
+	},
+	"sonic to guitar0057": {
+		"name": "sonic to guitar0057",
+		"width": 445,
+		"height": 524,
+		"x": 2320,
+		"y": 1966
+	},
+	"sonic to guitar0058": {
+		"name": "sonic to guitar0058",
+		"width": 445,
+		"height": 524,
+		"x": 2320,
+		"y": 1966
+	},
+	"sonic to guitar0059": {
+		"name": "sonic to guitar0059",
+		"width": 421,
+		"height": 506,
+		"x": 2865,
+		"y": 1966
+	},
+	"sonic to guitar0060": {
+		"name": "sonic to guitar0060",
+		"width": 421,
+		"height": 506,
+		"x": 2865,
+		"y": 1966
+	},
+	"sonic to guitar0061": {
+		"name": "sonic to guitar0061",
+		"width": 428,
+		"height": 514,
+		"x": 3386,
+		"y": 1966
+	},
+	"sonic to guitar0062": {
+		"name": "sonic to guitar0062",
+		"width": 428,
+		"height": 514,
+		"x": 3386,
+		"y": 1966
+	},
+	"sonic to guitar0063": {
+		"name": "sonic to guitar0063",
+		"width": 428,
+		"height": 514,
+		"x": 3386,
+		"y": 1966
+	},
+	"sonic to guitar0064": {
+		"name": "sonic to guitar0064",
+		"width": 428,
+		"height": 514,
+		"x": 3386,
+		"y": 1966
+	},
+	"sonic to guitar0065": {
+		"name": "sonic to guitar0065",
+		"width": 428,
+		"height": 514,
+		"x": 3386,
+		"y": 1966
+	},
+	"sonic to guitar0066": {
+		"name": "sonic to guitar0066",
+		"width": 428,
+		"height": 514,
+		"x": 3386,
+		"y": 1966
+	},
+	"sonic to guitar0067": {
+		"name": "sonic to guitar0067",
+		"width": 428,
+		"height": 514,
+		"x": 3386,
+		"y": 1966
+	},
+	"sonic to guitar0068": {
+		"name": "sonic to guitar0068",
+		"width": 428,
+		"height": 514,
+		"x": 3386,
+		"y": 1966
+	},
+	"sonic to guitar0069": {
+		"name": "sonic to guitar0069",
+		"width": 428,
+		"height": 514,
+		"x": 3386,
+		"y": 1966
+	},
+	"sonic up0000": {
+		"name": "sonic up0000",
+		"width": 461,
+		"height": 524,
+		"x": 3914,
+		"y": 1966
+	},
+	"sonic up0001": {
+		"name": "sonic up0001",
+		"width": 461,
+		"height": 524,
+		"x": 3914,
+		"y": 1966
+	},
+	"sonic up0002": {
+		"name": "sonic up0002",
+		"width": 460,
+		"height": 520,
+		"x": 4475,
+		"y": 1966
+	},
+	"sonic up0003": {
+		"name": "sonic up0003",
+		"width": 460,
+		"height": 520,
+		"x": 4475,
+		"y": 1966
+	},
+	"sonic up0004": {
+		"name": "sonic up0004",
+		"width": 460,
+		"height": 520,
+		"x": 4475,
+		"y": 1966
+	},
+	"sonic up0005": {
+		"name": "sonic up0005",
+		"width": 460,
+		"height": 520,
+		"x": 4475,
+		"y": 1966
+	},
+	"sonic up0006": {
+		"name": "sonic up0006",
+		"width": 460,
+		"height": 520,
+		"x": 4475,
+		"y": 1966
+	},
+	"sonic up0007": {
+		"name": "sonic up0007",
+		"width": 460,
+		"height": 520,
+		"x": 4475,
+		"y": 1966
+	},
+	"up miss0000": {
+		"name": "up miss0000",
+		"width": 425,
+		"height": 544,
+		"x": 5035,
+		"y": 1966
+	},
+	"up miss0001": {
+		"name": "up miss0001",
+		"width": 425,
+		"height": 544,
+		"x": 5035,
+		"y": 1966
+	},
+	"up miss0002": {
+		"name": "up miss0002",
+		"width": 440,
+		"height": 527,
+		"x": 5560,
+		"y": 1966
+	},
+	"up miss0003": {
+		"name": "up miss0003",
+		"width": 440,
+		"height": 527,
+		"x": 5560,
+		"y": 1966
+	},
+	"up miss0004": {
+		"name": "up miss0004",
+		"width": 440,
+		"height": 527,
+		"x": 5560,
+		"y": 1966
+	},
+	"up miss0005": {
+		"name": "up miss0005",
+		"width": 440,
+		"height": 527,
+		"x": 5560,
+		"y": 1966
+	},
+	"up miss0006": {
+		"name": "up miss0006",
+		"width": 440,
+		"height": 527,
+		"x": 5560,
+		"y": 1966
+	},
+	"up miss0007": {
+		"name": "up miss0007",
+		"width": 440,
+		"height": 527,
+		"x": 5560,
+		"y": 1966
+	}
+}

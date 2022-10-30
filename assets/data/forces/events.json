@@ -1,0 +1,224 @@
+{
+	"events": [
+		{
+			"eventFireTime": 0,
+			"events": [
+				{
+					"type": "Cam Boom Speed",
+					"v1": "2",
+					"v2": "3"
+				},
+				{
+					"type": "Add Camera Zoom",
+					"v1": "0.30",
+					"v2": "0.3"
+				}
+			]
+		},
+		{
+			"eventFireTime": 39170.9844559586,
+			"events": [
+				{
+					"type": "Set Cam Zoom",
+					"v1": "0.9",
+					"v2": ""
+				},
+				{
+					"type": "Cinematics",
+					"v1": "1",
+					"v2": ""
+				}
+			]
+		},
+		{
+			"eventFireTime": 39792.7461139896,
+			"events": [
+				{
+					"type": "Cam Boom Speed",
+					"v1": "4",
+					"v2": "2"
+				},
+				{
+					"type": "Set Cam Zoom",
+					"v1": "1.1",
+					"v2": ""
+				}
+			]
+		},
+		{
+			"eventFireTime": 48497.4093264249,
+			"events": [
+				{
+					"type": "Cam Boom Speed",
+					"v1": "4",
+					"v2": "0"
+				},
+				{
+					"type": "Cinematics",
+					"v1": "",
+					"v2": "2"
+				}
+			]
+		},
+		{
+			"eventFireTime": 49430.0518134715,
+			"events": [
+				{
+					"type": "Cam Boom Speed",
+					"v1": "4",
+					"v2": "3"
+				}
+			]
+		},
+		{
+			"eventFireTime": 49740.9326424871,
+			"events": [
+				{
+					"type": "Set Cam Zoom",
+					"v1": "0.9",
+					"v2": ""
+				}
+			]
+		},
+		{
+			"eventFireTime": 53316.0621761658,
+			"events": [
+				{
+					"type": "Set Cam Zoom",
+					"v1": "1.0",
+					"v2": ""
+				}
+			]
+		},
+		{
+			"eventFireTime": 54715.0259067358,
+			"events": [
+				{
+					"type": "Set Cam Zoom",
+					"v1": "0.9",
+					"v2": ""
+				}
+			]
+		},
+		{
+			"eventFireTime": 57979.274611399,
+			"events": [
+				{
+					"type": "Set Cam Zoom",
+					"v1": "1.1",
+					"v2": ""
+				}
+			]
+		},
+		{
+			"eventFireTime": 58290.1554404146,
+			"events": [
+				{
+					"type": "Cinematics",
+					"v1": "1",
+					"v2": ""
+				}
+			]
+		},
+		{
+			"eventFireTime": 58445.5958549223,
+			"events": [
+				{
+					"type": "Cam Boom Speed",
+					"v1": "4",
+					"v2": "0"
+				}
+			]
+		},
+		{
+			"eventFireTime": 58911.9170984457,
+			"events": [
+				{
+					"type": "Play Animation",
+					"v1": "shut",
+					"v2": "BF"
+				},
+				{
+					"type": "Lyrics Bf Side",
+					"v1": "Shut Up!",
+					"v2": "0.5"
+				}
+			]
+		},
+		{
+			"eventFireTime": 59689.1191709845,
+			"events": [
+				{
+					"type": "Cam Boom Speed",
+					"v1": "2",
+					"v2": "2"
+				},
+				{
+					"type": "Set Cam Zoom",
+					"v1": "0.8",
+					"v2": ""
+				},
+				{
+					"type": "Cinematics",
+					"v1": "",
+					"v2": "2"
+				}
+			]
+		},
+		{
+			"eventFireTime": 75854.9222797928,
+			"events": [
+				{
+					"type": "Set Cam Zoom",
+					"v1": "1.1",
+					"v2": ""
+				},
+				{
+					"type": "Cinematics",
+					"v1": "1",
+					"v2": ""
+				}
+			]
+		},
+		{
+			"eventFireTime": 76165.8031088083,
+			"events": [
+				{
+					"type": "Play Animation",
+					"v1": "no",
+					"v2": "BF"
+				},
+				{
+					"type": "Lyrics Bf Side",
+					"v1": "Oh no you don't!",
+					"v2": "0.6"
+				}
+			]
+		},
+		{
+			"eventFireTime": 77098.445595855,
+			"events": [
+				{
+					"type": "Play Animation",
+					"v1": "guitTrans",
+					"v2": "BF"
+				},
+				{
+					"type": "Cinematics",
+					"v1": "",
+					"v2": "2"
+				}
+			]
+		},
+		{
+			"eventFireTime": 78341.9689119171,
+			"events": [
+				{
+					"type": "Change Character",
+					"v1": "BF",
+					"v2": "sonic-guitar"
+				}
+			]
+		}
+	]
+}
