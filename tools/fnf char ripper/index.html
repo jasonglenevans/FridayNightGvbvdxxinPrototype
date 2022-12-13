@@ -1,0 +1,37 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+
+<title>FNF Character Ripper</title>
+
+<style>
+
+body {
+	font-family:arial;
+}
+
+</style>
+</head>
+<body>
+
+<h1>FNF Character Ripper</h1>
+<b>Image:</b>
+<input type="file" id="selectIMG" accept=".png">
+<b>XML:</b>
+<input type="file" id="selectXML" accept=".xml"><br>
+<b>Output JSON Positions:</b>
+<textarea id="outJSON"></textarea>
+
+<button id="startRip">Rip Character</button><br>
+<div hidden>
+<h1>FNF Event Converter (For Gvbvdxx's FNF Engine And More)</h1>
+<b>Chart:</b>
+<input type="file" id="selectChart" accept=".json"><br>
+<p id="convertedChart" placeholder="chart conversion result will be here."></p>
+</div>
+
+<script src="jszip/jszip.min.js?n=1"></script>
+<script src="index.js?n=1"></script>
+
+</body>
+</html>

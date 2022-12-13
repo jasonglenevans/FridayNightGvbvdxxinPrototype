@@ -1,0 +1,324 @@
+{
+	"sonic guitar down0000": {
+		"name": "sonic guitar down0000",
+		"width": 489,
+		"height": 486,
+		"x": 25,
+		"y": 25
+	},
+	"sonic guitar down0001": {
+		"name": "sonic guitar down0001",
+		"width": 489,
+		"height": 486,
+		"x": 25,
+		"y": 25
+	},
+	"sonic guitar down0002": {
+		"name": "sonic guitar down0002",
+		"width": 485,
+		"height": 492,
+		"x": 614,
+		"y": 25
+	},
+	"sonic guitar down0003": {
+		"name": "sonic guitar down0003",
+		"width": 485,
+		"height": 492,
+		"x": 614,
+		"y": 25
+	},
+	"sonic guitar down0004": {
+		"name": "sonic guitar down0004",
+		"width": 485,
+		"height": 492,
+		"x": 1199,
+		"y": 25
+	},
+	"sonic guitar down0005": {
+		"name": "sonic guitar down0005",
+		"width": 485,
+		"height": 492,
+		"x": 1199,
+		"y": 25
+	},
+	"sonic guitar down0006": {
+		"name": "sonic guitar down0006",
+		"width": 485,
+		"height": 492,
+		"x": 1199,
+		"y": 25
+	},
+	"sonic guitar down0007": {
+		"name": "sonic guitar down0007",
+		"width": 485,
+		"height": 492,
+		"x": 1199,
+		"y": 25
+	},
+	"sonic guitar idle0000": {
+		"name": "sonic guitar idle0000",
+		"width": 425,
+		"height": 508,
+		"x": 1784,
+		"y": 25
+	},
+	"sonic guitar idle0001": {
+		"name": "sonic guitar idle0001",
+		"width": 425,
+		"height": 508,
+		"x": 1784,
+		"y": 25
+	},
+	"sonic guitar idle0002": {
+		"name": "sonic guitar idle0002",
+		"width": 436,
+		"height": 514,
+		"x": 2309,
+		"y": 25
+	},
+	"sonic guitar idle0003": {
+		"name": "sonic guitar idle0003",
+		"width": 436,
+		"height": 514,
+		"x": 2309,
+		"y": 25
+	},
+	"sonic guitar idle0004": {
+		"name": "sonic guitar idle0004",
+		"width": 429,
+		"height": 512,
+		"x": 2845,
+		"y": 25
+	},
+	"sonic guitar idle0005": {
+		"name": "sonic guitar idle0005",
+		"width": 429,
+		"height": 512,
+		"x": 2845,
+		"y": 25
+	},
+	"sonic guitar idle0006": {
+		"name": "sonic guitar idle0006",
+		"width": 428,
+		"height": 514,
+		"x": 3374,
+		"y": 25
+	},
+	"sonic guitar idle0007": {
+		"name": "sonic guitar idle0007",
+		"width": 428,
+		"height": 514,
+		"x": 3374,
+		"y": 25
+	},
+	"sonic guitar idle0008": {
+		"name": "sonic guitar idle0008",
+		"width": 428,
+		"height": 514,
+		"x": 3374,
+		"y": 25
+	},
+	"sonic guitar idle0009": {
+		"name": "sonic guitar idle0009",
+		"width": 428,
+		"height": 514,
+		"x": 3374,
+		"y": 25
+	},
+	"sonic guitar idle0010": {
+		"name": "sonic guitar idle0010",
+		"width": 428,
+		"height": 514,
+		"x": 3374,
+		"y": 25
+	},
+	"sonic guitar idle0011": {
+		"name": "sonic guitar idle0011",
+		"width": 428,
+		"height": 514,
+		"x": 3374,
+		"y": 25
+	},
+	"sonic guitar idle0012": {
+		"name": "sonic guitar idle0012",
+		"width": 428,
+		"height": 514,
+		"x": 3374,
+		"y": 25
+	},
+	"sonic guitar idle0013": {
+		"name": "sonic guitar idle0013",
+		"width": 428,
+		"height": 514,
+		"x": 3374,
+		"y": 25
+	},
+	"sonic guitar left0000": {
+		"name": "sonic guitar left0000",
+		"width": 404,
+		"height": 511,
+		"x": 25,
+		"y": 639
+	},
+	"sonic guitar left0001": {
+		"name": "sonic guitar left0001",
+		"width": 404,
+		"height": 511,
+		"x": 25,
+		"y": 639
+	},
+	"sonic guitar left0002": {
+		"name": "sonic guitar left0002",
+		"width": 411,
+		"height": 510,
+		"x": 529,
+		"y": 639
+	},
+	"sonic guitar left0003": {
+		"name": "sonic guitar left0003",
+		"width": 411,
+		"height": 510,
+		"x": 529,
+		"y": 639
+	},
+	"sonic guitar left0004": {
+		"name": "sonic guitar left0004",
+		"width": 411,
+		"height": 510,
+		"x": 1040,
+		"y": 639
+	},
+	"sonic guitar left0005": {
+		"name": "sonic guitar left0005",
+		"width": 411,
+		"height": 510,
+		"x": 1040,
+		"y": 639
+	},
+	"sonic guitar left0006": {
+		"name": "sonic guitar left0006",
+		"width": 411,
+		"height": 510,
+		"x": 1040,
+		"y": 639
+	},
+	"sonic guitar left0007": {
+		"name": "sonic guitar left0007",
+		"width": 411,
+		"height": 510,
+		"x": 1040,
+		"y": 639
+	},
+	"sonic guitar right0000": {
+		"name": "sonic guitar right0000",
+		"width": 415,
+		"height": 513,
+		"x": 1551,
+		"y": 639
+	},
+	"sonic guitar right0001": {
+		"name": "sonic guitar right0001",
+		"width": 415,
+		"height": 513,
+		"x": 1551,
+		"y": 639
+	},
+	"sonic guitar right0002": {
+		"name": "sonic guitar right0002",
+		"width": 422,
+		"height": 512,
+		"x": 2066,
+		"y": 639
+	},
+	"sonic guitar right0003": {
+		"name": "sonic guitar right0003",
+		"width": 422,
+		"height": 512,
+		"x": 2066,
+		"y": 639
+	},
+	"sonic guitar right0004": {
+		"name": "sonic guitar right0004",
+		"width": 422,
+		"height": 512,
+		"x": 2588,
+		"y": 639
+	},
+	"sonic guitar right0005": {
+		"name": "sonic guitar right0005",
+		"width": 422,
+		"height": 512,
+		"x": 2588,
+		"y": 639
+	},
+	"sonic guitar right0006": {
+		"name": "sonic guitar right0006",
+		"width": 422,
+		"height": 512,
+		"x": 2588,
+		"y": 639
+	},
+	"sonic guitar right0007": {
+		"name": "sonic guitar right0007",
+		"width": 422,
+		"height": 512,
+		"x": 2588,
+		"y": 639
+	},
+	"sonic guitar up0000": {
+		"name": "sonic guitar up0000",
+		"width": 469,
+		"height": 538,
+		"x": 3110,
+		"y": 639
+	},
+	"sonic guitar up0001": {
+		"name": "sonic guitar up0001",
+		"width": 469,
+		"height": 538,
+		"x": 3110,
+		"y": 639
+	},
+	"sonic guitar up0002": {
+		"name": "sonic guitar up0002",
+		"width": 458,
+		"height": 527,
+		"x": 25,
+		"y": 1277
+	},
+	"sonic guitar up0003": {
+		"name": "sonic guitar up0003",
+		"width": 458,
+		"height": 527,
+		"x": 583,
+		"y": 1277
+	},
+	"sonic guitar up0004": {
+		"name": "sonic guitar up0004",
+		"width": 458,
+		"height": 527,
+		"x": 1141,
+		"y": 1277
+	},
+	"sonic guitar up0005": {
+		"name": "sonic guitar up0005",
+		"width": 458,
+		"height": 527,
+		"x": 1141,
+		"y": 1277
+	},
+	"sonic guitar up0006": {
+		"name": "sonic guitar up0006",
+		"width": 458,
+		"height": 527,
+		"x": 1141,
+		"y": 1277
+	},
+	"sonic guitar up0007": {
+		"name": "sonic guitar up0007",
+		"width": 458,
+		"height": 527,
+		"x": 1141,
+		"y": 1277
+	}
+}

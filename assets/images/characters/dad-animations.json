@@ -1,0 +1,9 @@
+{
+	"file":"DADDY_DEAREST",
+	"health_icon": "icon-dad",
+	"up":"Dad Sing Note UP",
+	"down":"Dad Sing Note DOWN",
+	"left":"Dad Sing Note LEFT",
+	"right":"Dad Sing Note RIGHT",
+	"idle":"Dad idle dance"
+}

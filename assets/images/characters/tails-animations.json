@@ -1,0 +1,9 @@
+{
+	"file":"tails",
+	"idle":"tails idle dance",
+	"left":"tails left note",
+	"up":"tails up note",
+	"down":"tails down note",
+	"right":"tails right note",
+	"health_icon": "icon-tails"
+}

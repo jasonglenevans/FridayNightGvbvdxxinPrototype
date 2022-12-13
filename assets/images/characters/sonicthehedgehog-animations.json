@@ -1,0 +1,29 @@
+{
+	"file":"sonicthehedgehog",
+	"health_icon": "icon-sonic",
+	"idle":"sonic idle",
+	"left":"sonic left",
+	"up":"sonic up",
+	"down": "sonic down",
+	"right": "sonic right",
+	"miss_down":"down miss",
+	"miss_left":"left miss",
+	"miss_right":"right miss",
+	"miss_up":"up miss",
+	"comment_pro_tip":"if your using events then add the animations that are used.",
+	"shut": {
+		"name":"sonic shut up",
+		"startFrame":0,
+		"speed":3
+	},
+	"no": {
+		"name":"sonic oh no",
+		"startFrame":0,
+		"speed":3
+	},
+	"guitTrans": {
+		"name":"sonic to guitar",
+		"startFrame":28,
+		"speed":3
+	}
+}

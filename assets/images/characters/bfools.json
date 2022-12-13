@@ -1,0 +1,1570 @@
+{
+	"BF CAR0000": {
+		"name": "BF CAR0000",
+		"width": 1380,
+		"height": 684,
+		"x": 0,
+		"y": 0
+	},
+	"BF CAR0001": {
+		"name": "BF CAR0001",
+		"width": 1380,
+		"height": 684,
+		"x": 1380,
+		"y": 0
+	},
+	"BF CAR0002": {
+		"name": "BF CAR0002",
+		"width": 1380,
+		"height": 684,
+		"x": 2760,
+		"y": 0
+	},
+	"BF CAR0003": {
+		"name": "BF CAR0003",
+		"width": 1380,
+		"height": 684,
+		"x": 4140,
+		"y": 0
+	},
+	"BF CAR0004": {
+		"name": "BF CAR0004",
+		"width": 1380,
+		"height": 684,
+		"x": 4140,
+		"y": 0
+	},
+	"BF CAR0005": {
+		"name": "BF CAR0005",
+		"width": 1380,
+		"height": 684,
+		"x": 4140,
+		"y": 0
+	},
+	"BF CAR0006": {
+		"name": "BF CAR0006",
+		"width": 1380,
+		"height": 684,
+		"x": 4140,
+		"y": 0
+	},
+	"BF CAR0007": {
+		"name": "BF CAR0007",
+		"width": 1380,
+		"height": 684,
+		"x": 4140,
+		"y": 0
+	},
+	"BF CAR0008": {
+		"name": "BF CAR0008",
+		"width": 1380,
+		"height": 684,
+		"x": 4140,
+		"y": 0
+	},
+	"BF CAR0009": {
+		"name": "BF CAR0009",
+		"width": 1380,
+		"height": 684,
+		"x": 4140,
+		"y": 0
+	},
+	"BF CAR0010": {
+		"name": "BF CAR0010",
+		"width": 1380,
+		"height": 684,
+		"x": 4140,
+		"y": 0
+	},
+	"BF CAR0011": {
+		"name": "BF CAR0011",
+		"width": 1380,
+		"height": 684,
+		"x": 4140,
+		"y": 0
+	},
+	"BF CAR0012": {
+		"name": "BF CAR0012",
+		"width": 1380,
+		"height": 684,
+		"x": 4140,
+		"y": 0
+	},
+	"BF CAR0013": {
+		"name": "BF CAR0013",
+		"width": 1380,
+		"height": 684,
+		"x": 4140,
+		"y": 0
+	},
+	"BF Dead Loop0000": {
+		"name": "BF Dead Loop0000",
+		"width": 439,
+		"height": 435,
+		"x": 5520,
+		"y": 0
+	},
+	"BF Dead Loop0001": {
+		"name": "BF Dead Loop0001",
+		"width": 439,
+		"height": 435,
+		"x": 5959,
+		"y": 0
+	},
+	"BF Dead Loop0002": {
+		"name": "BF Dead Loop0002",
+		"width": 439,
+		"height": 435,
+		"x": 5959,
+		"y": 0
+	},
+	"BF Dead Loop0003": {
+		"name": "BF Dead Loop0003",
+		"width": 439,
+		"height": 435,
+		"x": 6398,
+		"y": 0
+	},
+	"BF Dead Loop0004": {
+		"name": "BF Dead Loop0004",
+		"width": 439,
+		"height": 435,
+		"x": 6398,
+		"y": 0
+	},
+	"BF Dead Loop0005": {
+		"name": "BF Dead Loop0005",
+		"width": 439,
+		"height": 435,
+		"x": 6837,
+		"y": 0
+	},
+	"BF Dead Loop0006": {
+		"name": "BF Dead Loop0006",
+		"width": 439,
+		"height": 435,
+		"x": 6837,
+		"y": 0
+	},
+	"BF Dead Loop0007": {
+		"name": "BF Dead Loop0007",
+		"width": 439,
+		"height": 435,
+		"x": 7276,
+		"y": 0
+	},
+	"BF Dead Loop0008": {
+		"name": "BF Dead Loop0008",
+		"width": 439,
+		"height": 435,
+		"x": 7715,
+		"y": 0
+	},
+	"BF Dead Loop0009": {
+		"name": "BF Dead Loop0009",
+		"width": 439,
+		"height": 435,
+		"x": 7715,
+		"y": 0
+	},
+	"BF Dead Loop0010": {
+		"name": "BF Dead Loop0010",
+		"width": 439,
+		"height": 435,
+		"x": 7715,
+		"y": 0
+	},
+	"BF Dead Loop0011": {
+		"name": "BF Dead Loop0011",
+		"width": 439,
+		"height": 435,
+		"x": 7715,
+		"y": 0
+	},
+	"BF Dead Loop0012": {
+		"name": "BF Dead Loop0012",
+		"width": 439,
+		"height": 435,
+		"x": 7715,
+		"y": 0
+	},
+	"BF Dead Loop0013": {
+		"name": "BF Dead Loop0013",
+		"width": 439,
+		"height": 435,
+		"x": 7715,
+		"y": 0
+	},
+	"BF Dead Loop0014": {
+		"name": "BF Dead Loop0014",
+		"width": 439,
+		"height": 435,
+		"x": 7715,
+		"y": 0
+	},
+	"BF Dead Loop0015": {
+		"name": "BF Dead Loop0015",
+		"width": 439,
+		"height": 435,
+		"x": 7715,
+		"y": 0
+	},
+	"BF Dead Loop0016": {
+		"name": "BF Dead Loop0016",
+		"width": 439,
+		"height": 435,
+		"x": 7715,
+		"y": 0
+	},
+	"BF Dead Loop0017": {
+		"name": "BF Dead Loop0017",
+		"width": 439,
+		"height": 435,
+		"x": 5520,
+		"y": 0
+	},
+	"BF Dead Loop0018": {
+		"name": "BF Dead Loop0018",
+		"width": 439,
+		"height": 435,
+		"x": 5959,
+		"y": 0
+	},
+	"BF Dead Loop0019": {
+		"name": "BF Dead Loop0019",
+		"width": 439,
+		"height": 435,
+		"x": 5959,
+		"y": 0
+	},
+	"BF Dead Loop0020": {
+		"name": "BF Dead Loop0020",
+		"width": 439,
+		"height": 435,
+		"x": 6398,
+		"y": 0
+	},
+	"BF Dead Loop0021": {
+		"name": "BF Dead Loop0021",
+		"width": 439,
+		"height": 435,
+		"x": 6398,
+		"y": 0
+	},
+	"BF Dead Loop0022": {
+		"name": "BF Dead Loop0022",
+		"width": 439,
+		"height": 435,
+		"x": 6837,
+		"y": 0
+	},
+	"BF Dead Loop0023": {
+		"name": "BF Dead Loop0023",
+		"width": 439,
+		"height": 435,
+		"x": 6837,
+		"y": 0
+	},
+	"BF Dead Loop0024": {
+		"name": "BF Dead Loop0024",
+		"width": 439,
+		"height": 435,
+		"x": 7715,
+		"y": 0
+	},
+	"BF Dead Loop0025": {
+		"name": "BF Dead Loop0025",
+		"width": 439,
+		"height": 435,
+		"x": 7715,
+		"y": 0
+	},
+	"BF Dead Loop0026": {
+		"name": "BF Dead Loop0026",
+		"width": 439,
+		"height": 435,
+		"x": 7715,
+		"y": 0
+	},
+	"BF Dead Loop0027": {
+		"name": "BF Dead Loop0027",
+		"width": 439,
+		"height": 435,
+		"x": 7715,
+		"y": 0
+	},
+	"BF Dead Loop0028": {
+		"name": "BF Dead Loop0028",
+		"width": 439,
+		"height": 435,
+		"x": 7715,
+		"y": 0
+	},
+	"BF Dead Loop0029": {
+		"name": "BF Dead Loop0029",
+		"width": 439,
+		"height": 435,
+		"x": 7715,
+		"y": 0
+	},
+	"BF Dead Loop0030": {
+		"name": "BF Dead Loop0030",
+		"width": 439,
+		"height": 435,
+		"x": 7276,
+		"y": 0
+	},
+	"BF Dead Loop0031": {
+		"name": "BF Dead Loop0031",
+		"width": 439,
+		"height": 435,
+		"x": 7715,
+		"y": 0
+	},
+	"BF Dead Loop0032": {
+		"name": "BF Dead Loop0032",
+		"width": 439,
+		"height": 435,
+		"x": 7715,
+		"y": 0
+	},
+	"BF Dead Loop0033": {
+		"name": "BF Dead Loop0033",
+		"width": 439,
+		"height": 435,
+		"x": 7715,
+		"y": 0
+	},
+	"BF Dead confirm0000": {
+		"name": "BF Dead confirm0000",
+		"width": 439,
+		"height": 499,
+		"x": 0,
+		"y": 684
+	},
+	"BF Dead confirm0001": {
+		"name": "BF Dead confirm0001",
+		"width": 439,
+		"height": 499,
+		"x": 439,
+		"y": 684
+	},
+	"BF Dead confirm0002": {
+		"name": "BF Dead confirm0002",
+		"width": 439,
+		"height": 499,
+		"x": 878,
+		"y": 684
+	},
+	"BF Dead confirm0003": {
+		"name": "BF Dead confirm0003",
+		"width": 439,
+		"height": 499,
+		"x": 1317,
+		"y": 684
+	},
+	"BF Dead confirm0004": {
+		"name": "BF Dead confirm0004",
+		"width": 439,
+		"height": 499,
+		"x": 1756,
+		"y": 684
+	},
+	"BF Dead confirm0005": {
+		"name": "BF Dead confirm0005",
+		"width": 439,
+		"height": 499,
+		"x": 2195,
+		"y": 684
+	},
+	"BF Dead confirm0006": {
+		"name": "BF Dead confirm0006",
+		"width": 439,
+		"height": 499,
+		"x": 2634,
+		"y": 684
+	},
+	"BF Dead confirm0007": {
+		"name": "BF Dead confirm0007",
+		"width": 439,
+		"height": 499,
+		"x": 3073,
+		"y": 684
+	},
+	"BF Dead confirm0008": {
+		"name": "BF Dead confirm0008",
+		"width": 439,
+		"height": 499,
+		"x": 3512,
+		"y": 684
+	},
+	"BF Dead confirm0009": {
+		"name": "BF Dead confirm0009",
+		"width": 439,
+		"height": 499,
+		"x": 3951,
+		"y": 684
+	},
+	"BF Dead confirm0010": {
+		"name": "BF Dead confirm0010",
+		"width": 439,
+		"height": 499,
+		"x": 4390,
+		"y": 684
+	},
+	"BF Dead confirm0011": {
+		"name": "BF Dead confirm0011",
+		"width": 439,
+		"height": 499,
+		"x": 4829,
+		"y": 684
+	},
+	"BF Dead confirm0012": {
+		"name": "BF Dead confirm0012",
+		"width": 439,
+		"height": 499,
+		"x": 5268,
+		"y": 684
+	},
+	"BF Dead confirm0013": {
+		"name": "BF Dead confirm0013",
+		"width": 439,
+		"height": 499,
+		"x": 5707,
+		"y": 684
+	},
+	"BF Dead confirm0014": {
+		"name": "BF Dead confirm0014",
+		"width": 439,
+		"height": 499,
+		"x": 6146,
+		"y": 684
+	},
+	"BF Dead confirm0015": {
+		"name": "BF Dead confirm0015",
+		"width": 439,
+		"height": 499,
+		"x": 6585,
+		"y": 684
+	},
+	"BF Dead confirm0016": {
+		"name": "BF Dead confirm0016",
+		"width": 439,
+		"height": 499,
+		"x": 7024,
+		"y": 684
+	},
+	"BF Dead confirm0017": {
+		"name": "BF Dead confirm0017",
+		"width": 439,
+		"height": 499,
+		"x": 7463,
+		"y": 684
+	},
+	"BF Dead confirm0018": {
+		"name": "BF Dead confirm0018",
+		"width": 439,
+		"height": 499,
+		"x": 0,
+		"y": 1183
+	},
+	"BF Dead confirm0019": {
+		"name": "BF Dead confirm0019",
+		"width": 439,
+		"height": 499,
+		"x": 439,
+		"y": 1183
+	},
+	"BF Dead confirm0020": {
+		"name": "BF Dead confirm0020",
+		"width": 439,
+		"height": 499,
+		"x": 878,
+		"y": 1183
+	},
+	"BF Dead confirm0021": {
+		"name": "BF Dead confirm0021",
+		"width": 439,
+		"height": 499,
+		"x": 1317,
+		"y": 1183
+	},
+	"BF Dead confirm0022": {
+		"name": "BF Dead confirm0022",
+		"width": 439,
+		"height": 499,
+		"x": 1756,
+		"y": 1183
+	},
+	"BF Dead confirm0023": {
+		"name": "BF Dead confirm0023",
+		"width": 439,
+		"height": 499,
+		"x": 2195,
+		"y": 1183
+	},
+	"BF Dead confirm0024": {
+		"name": "BF Dead confirm0024",
+		"width": 439,
+		"height": 499,
+		"x": 2195,
+		"y": 1183
+	},
+	"BF Dead confirm0025": {
+		"name": "BF Dead confirm0025",
+		"width": 439,
+		"height": 499,
+		"x": 2195,
+		"y": 1183
+	},
+	"BF Dead confirm0026": {
+		"name": "BF Dead confirm0026",
+		"width": 439,
+		"height": 499,
+		"x": 2195,
+		"y": 1183
+	},
+	"BF Dead confirm0027": {
+		"name": "BF Dead confirm0027",
+		"width": 439,
+		"height": 499,
+		"x": 2195,
+		"y": 1183
+	},
+	"BF Dead confirm0028": {
+		"name": "BF Dead confirm0028",
+		"width": 439,
+		"height": 499,
+		"x": 2195,
+		"y": 1183
+	},
+	"BF Dead confirm0029": {
+		"name": "BF Dead confirm0029",
+		"width": 439,
+		"height": 499,
+		"x": 2195,
+		"y": 1183
+	},
+	"BF Dead confirm0030": {
+		"name": "BF Dead confirm0030",
+		"width": 439,
+		"height": 499,
+		"x": 2195,
+		"y": 1183
+	},
+	"BF Dead confirm0031": {
+		"name": "BF Dead confirm0031",
+		"width": 439,
+		"height": 499,
+		"x": 2195,
+		"y": 1183
+	},
+	"BF Dead confirm0032": {
+		"name": "BF Dead confirm0032",
+		"width": 439,
+		"height": 499,
+		"x": 2195,
+		"y": 1183
+	},
+	"BF Dead confirm0033": {
+		"name": "BF Dead confirm0033",
+		"width": 439,
+		"height": 499,
+		"x": 2195,
+		"y": 1183
+	},
+	"BF MISS0000": {
+		"name": "BF MISS0000",
+		"width": 549,
+		"height": 439,
+		"x": 2634,
+		"y": 1183
+	},
+	"BF MISS0001": {
+		"name": "BF MISS0001",
+		"width": 549,
+		"height": 439,
+		"x": 3183,
+		"y": 1183
+	},
+	"BF MISS0002": {
+		"name": "BF MISS0002",
+		"width": 549,
+		"height": 439,
+		"x": 3732,
+		"y": 1183
+	},
+	"BF MISS0003": {
+		"name": "BF MISS0003",
+		"width": 549,
+		"height": 439,
+		"x": 4281,
+		"y": 1183
+	},
+	"BF MISS0004": {
+		"name": "BF MISS0004",
+		"width": 549,
+		"height": 439,
+		"x": 4281,
+		"y": 1183
+	},
+	"BF MISS0005": {
+		"name": "BF MISS0005",
+		"width": 549,
+		"height": 439,
+		"x": 4281,
+		"y": 1183
+	},
+	"BF MISS0006": {
+		"name": "BF MISS0006",
+		"width": 549,
+		"height": 439,
+		"x": 4281,
+		"y": 1183
+	},
+	"BF MISS0007": {
+		"name": "BF MISS0007",
+		"width": 549,
+		"height": 439,
+		"x": 4281,
+		"y": 1183
+	},
+	"BF MISS0008": {
+		"name": "BF MISS0008",
+		"width": 549,
+		"height": 439,
+		"x": 4281,
+		"y": 1183
+	},
+	"BF MISS0009": {
+		"name": "BF MISS0009",
+		"width": 549,
+		"height": 439,
+		"x": 4830,
+		"y": 1183
+	},
+	"BF MISS0010": {
+		"name": "BF MISS0010",
+		"width": 549,
+		"height": 439,
+		"x": 5379,
+		"y": 1183
+	},
+	"BF MISS0011": {
+		"name": "BF MISS0011",
+		"width": 549,
+		"height": 439,
+		"x": 5928,
+		"y": 1183
+	},
+	"BF MISS0012": {
+		"name": "BF MISS0012",
+		"width": 549,
+		"height": 439,
+		"x": 6477,
+		"y": 1183
+	},
+	"BF MISS0013": {
+		"name": "BF MISS0013",
+		"width": 549,
+		"height": 439,
+		"x": 7026,
+		"y": 1183
+	},
+	"BF NOTE DOWN0000": {
+		"name": "BF NOTE DOWN0000",
+		"width": 679,
+		"height": 220,
+		"x": 0,
+		"y": 1682
+	},
+	"BF NOTE DOWN0001": {
+		"name": "BF NOTE DOWN0001",
+		"width": 679,
+		"height": 220,
+		"x": 679,
+		"y": 1682
+	},
+	"BF NOTE DOWN0002": {
+		"name": "BF NOTE DOWN0002",
+		"width": 679,
+		"height": 220,
+		"x": 1358,
+		"y": 1682
+	},
+	"BF NOTE DOWN0003": {
+		"name": "BF NOTE DOWN0003",
+		"width": 679,
+		"height": 220,
+		"x": 2037,
+		"y": 1682
+	},
+	"BF NOTE DOWN0004": {
+		"name": "BF NOTE DOWN0004",
+		"width": 679,
+		"height": 220,
+		"x": 2716,
+		"y": 1682
+	},
+	"BF NOTE DOWN0005": {
+		"name": "BF NOTE DOWN0005",
+		"width": 679,
+		"height": 220,
+		"x": 3395,
+		"y": 1682
+	},
+	"BF NOTE DOWN0006": {
+		"name": "BF NOTE DOWN0006",
+		"width": 679,
+		"height": 220,
+		"x": 4074,
+		"y": 1682
+	},
+	"BF NOTE DOWN0007": {
+		"name": "BF NOTE DOWN0007",
+		"width": 679,
+		"height": 220,
+		"x": 4753,
+		"y": 1682
+	},
+	"BF NOTE DOWN0008": {
+		"name": "BF NOTE DOWN0008",
+		"width": 679,
+		"height": 220,
+		"x": 5432,
+		"y": 1682
+	},
+	"BF NOTE DOWN0009": {
+		"name": "BF NOTE DOWN0009",
+		"width": 679,
+		"height": 220,
+		"x": 6111,
+		"y": 1682
+	},
+	"BF NOTE DOWN0010": {
+		"name": "BF NOTE DOWN0010",
+		"width": 679,
+		"height": 220,
+		"x": 6111,
+		"y": 1682
+	},
+	"BF NOTE DOWN0011": {
+		"name": "BF NOTE DOWN0011",
+		"width": 679,
+		"height": 220,
+		"x": 6111,
+		"y": 1682
+	},
+	"BF NOTE DOWN0012": {
+		"name": "BF NOTE DOWN0012",
+		"width": 679,
+		"height": 220,
+		"x": 6111,
+		"y": 1682
+	},
+	"BF NOTE DOWN0013": {
+		"name": "BF NOTE DOWN0013",
+		"width": 679,
+		"height": 220,
+		"x": 6111,
+		"y": 1682
+	},
+	"BF NOTE LEFT0000": {
+		"name": "BF NOTE LEFT0000",
+		"width": 746,
+		"height": 436,
+		"x": 6790,
+		"y": 1682
+	},
+	"BF NOTE LEFT0001": {
+		"name": "BF NOTE LEFT0001",
+		"width": 746,
+		"height": 436,
+		"x": 0,
+		"y": 2118
+	},
+	"BF NOTE LEFT0002": {
+		"name": "BF NOTE LEFT0002",
+		"width": 746,
+		"height": 436,
+		"x": 746,
+		"y": 2118
+	},
+	"BF NOTE LEFT0003": {
+		"name": "BF NOTE LEFT0003",
+		"width": 746,
+		"height": 436,
+		"x": 1492,
+		"y": 2118
+	},
+	"BF NOTE LEFT0004": {
+		"name": "BF NOTE LEFT0004",
+		"width": 746,
+		"height": 436,
+		"x": 2238,
+		"y": 2118
+	},
+	"BF NOTE LEFT0005": {
+		"name": "BF NOTE LEFT0005",
+		"width": 746,
+		"height": 436,
+		"x": 2984,
+		"y": 2118
+	},
+	"BF NOTE LEFT0006": {
+		"name": "BF NOTE LEFT0006",
+		"width": 746,
+		"height": 436,
+		"x": 3730,
+		"y": 2118
+	},
+	"BF NOTE LEFT0007": {
+		"name": "BF NOTE LEFT0007",
+		"width": 746,
+		"height": 436,
+		"x": 4476,
+		"y": 2118
+	},
+	"BF NOTE LEFT0008": {
+		"name": "BF NOTE LEFT0008",
+		"width": 746,
+		"height": 436,
+		"x": 5222,
+		"y": 2118
+	},
+	"BF NOTE LEFT0009": {
+		"name": "BF NOTE LEFT0009",
+		"width": 746,
+		"height": 436,
+		"x": 5968,
+		"y": 2118
+	},
+	"BF NOTE LEFT0010": {
+		"name": "BF NOTE LEFT0010",
+		"width": 746,
+		"height": 436,
+		"x": 6714,
+		"y": 2118
+	},
+	"BF NOTE LEFT0011": {
+		"name": "BF NOTE LEFT0011",
+		"width": 746,
+		"height": 436,
+		"x": 6714,
+		"y": 2118
+	},
+	"BF NOTE LEFT0012": {
+		"name": "BF NOTE LEFT0012",
+		"width": 746,
+		"height": 436,
+		"x": 6714,
+		"y": 2118
+	},
+	"BF NOTE LEFT0013": {
+		"name": "BF NOTE LEFT0013",
+		"width": 746,
+		"height": 436,
+		"x": 6714,
+		"y": 2118
+	},
+	"BF NOTE RIGHT0000": {
+		"name": "BF NOTE RIGHT0000",
+		"width": 852,
+		"height": 425,
+		"x": 0,
+		"y": 2554
+	},
+	"BF NOTE RIGHT0001": {
+		"name": "BF NOTE RIGHT0001",
+		"width": 852,
+		"height": 425,
+		"x": 852,
+		"y": 2554
+	},
+	"BF NOTE RIGHT0002": {
+		"name": "BF NOTE RIGHT0002",
+		"width": 852,
+		"height": 425,
+		"x": 1704,
+		"y": 2554
+	},
+	"BF NOTE RIGHT0003": {
+		"name": "BF NOTE RIGHT0003",
+		"width": 852,
+		"height": 425,
+		"x": 2556,
+		"y": 2554
+	},
+	"BF NOTE RIGHT0004": {
+		"name": "BF NOTE RIGHT0004",
+		"width": 852,
+		"height": 425,
+		"x": 3408,
+		"y": 2554
+	},
+	"BF NOTE RIGHT0005": {
+		"name": "BF NOTE RIGHT0005",
+		"width": 852,
+		"height": 425,
+		"x": 4260,
+		"y": 2554
+	},
+	"BF NOTE RIGHT0006": {
+		"name": "BF NOTE RIGHT0006",
+		"width": 852,
+		"height": 425,
+		"x": 5112,
+		"y": 2554
+	},
+	"BF NOTE RIGHT0007": {
+		"name": "BF NOTE RIGHT0007",
+		"width": 852,
+		"height": 425,
+		"x": 5964,
+		"y": 2554
+	},
+	"BF NOTE RIGHT0008": {
+		"name": "BF NOTE RIGHT0008",
+		"width": 852,
+		"height": 425,
+		"x": 6816,
+		"y": 2554
+	},
+	"BF NOTE RIGHT0009": {
+		"name": "BF NOTE RIGHT0009",
+		"width": 852,
+		"height": 425,
+		"x": 0,
+		"y": 2979
+	},
+	"BF NOTE RIGHT0010": {
+		"name": "BF NOTE RIGHT0010",
+		"width": 852,
+		"height": 425,
+		"x": 852,
+		"y": 2979
+	},
+	"BF NOTE RIGHT0011": {
+		"name": "BF NOTE RIGHT0011",
+		"width": 852,
+		"height": 425,
+		"x": 1704,
+		"y": 2979
+	},
+	"BF NOTE RIGHT0012": {
+		"name": "BF NOTE RIGHT0012",
+		"width": 852,
+		"height": 425,
+		"x": 1704,
+		"y": 2979
+	},
+	"BF NOTE RIGHT0013": {
+		"name": "BF NOTE RIGHT0013",
+		"width": 852,
+		"height": 425,
+		"x": 1704,
+		"y": 2979
+	},
+	"BF NOTE UP0000": {
+		"name": "BF NOTE UP0000",
+		"width": 609,
+		"height": 633,
+		"x": 2556,
+		"y": 2979
+	},
+	"BF NOTE UP0001": {
+		"name": "BF NOTE UP0001",
+		"width": 609,
+		"height": 633,
+		"x": 3165,
+		"y": 2979
+	},
+	"BF NOTE UP0002": {
+		"name": "BF NOTE UP0002",
+		"width": 609,
+		"height": 633,
+		"x": 3774,
+		"y": 2979
+	},
+	"BF NOTE UP0003": {
+		"name": "BF NOTE UP0003",
+		"width": 609,
+		"height": 633,
+		"x": 4383,
+		"y": 2979
+	},
+	"BF NOTE UP0004": {
+		"name": "BF NOTE UP0004",
+		"width": 609,
+		"height": 633,
+		"x": 4992,
+		"y": 2979
+	},
+	"BF NOTE UP0005": {
+		"name": "BF NOTE UP0005",
+		"width": 609,
+		"height": 633,
+		"x": 5601,
+		"y": 2979
+	},
+	"BF NOTE UP0006": {
+		"name": "BF NOTE UP0006",
+		"width": 609,
+		"height": 633,
+		"x": 6210,
+		"y": 2979
+	},
+	"BF NOTE UP0007": {
+		"name": "BF NOTE UP0007",
+		"width": 609,
+		"height": 633,
+		"x": 6819,
+		"y": 2979
+	},
+	"BF NOTE UP0008": {
+		"name": "BF NOTE UP0008",
+		"width": 609,
+		"height": 633,
+		"x": 6819,
+		"y": 2979
+	},
+	"BF NOTE UP0009": {
+		"name": "BF NOTE UP0009",
+		"width": 609,
+		"height": 633,
+		"x": 6819,
+		"y": 2979
+	},
+	"BF NOTE UP0010": {
+		"name": "BF NOTE UP0010",
+		"width": 609,
+		"height": 633,
+		"x": 7428,
+		"y": 2979
+	},
+	"BF NOTE UP0011": {
+		"name": "BF NOTE UP0011",
+		"width": 609,
+		"height": 633,
+		"x": 0,
+		"y": 3612
+	},
+	"BF NOTE UP0012": {
+		"name": "BF NOTE UP0012",
+		"width": 609,
+		"height": 633,
+		"x": 609,
+		"y": 3612
+	},
+	"BF NOTE UP0013": {
+		"name": "BF NOTE UP0013",
+		"width": 609,
+		"height": 633,
+		"x": 1218,
+		"y": 3612
+	},
+	"BF dies0000": {
+		"name": "BF dies0000",
+		"width": 439,
+		"height": 445,
+		"x": 1827,
+		"y": 3612
+	},
+	"BF dies0001": {
+		"name": "BF dies0001",
+		"width": 439,
+		"height": 445,
+		"x": 2266,
+		"y": 3612
+	},
+	"BF dies0002": {
+		"name": "BF dies0002",
+		"width": 439,
+		"height": 445,
+		"x": 2705,
+		"y": 3612
+	},
+	"BF dies0003": {
+		"name": "BF dies0003",
+		"width": 439,
+		"height": 445,
+		"x": 3144,
+		"y": 3612
+	},
+	"BF dies0004": {
+		"name": "BF dies0004",
+		"width": 439,
+		"height": 445,
+		"x": 3583,
+		"y": 3612
+	},
+	"BF dies0005": {
+		"name": "BF dies0005",
+		"width": 439,
+		"height": 445,
+		"x": 4022,
+		"y": 3612
+	},
+	"BF dies0006": {
+		"name": "BF dies0006",
+		"width": 439,
+		"height": 445,
+		"x": 4461,
+		"y": 3612
+	},
+	"BF dies0007": {
+		"name": "BF dies0007",
+		"width": 439,
+		"height": 445,
+		"x": 4461,
+		"y": 3612
+	},
+	"BF dies0008": {
+		"name": "BF dies0008",
+		"width": 439,
+		"height": 445,
+		"x": 4461,
+		"y": 3612
+	},
+	"BF dies0009": {
+		"name": "BF dies0009",
+		"width": 439,
+		"height": 445,
+		"x": 4461,
+		"y": 3612
+	},
+	"BF dies0010": {
+		"name": "BF dies0010",
+		"width": 439,
+		"height": 445,
+		"x": 4461,
+		"y": 3612
+	},
+	"BF dies0011": {
+		"name": "BF dies0011",
+		"width": 439,
+		"height": 445,
+		"x": 4461,
+		"y": 3612
+	},
+	"BF dies0012": {
+		"name": "BF dies0012",
+		"width": 439,
+		"height": 445,
+		"x": 4461,
+		"y": 3612
+	},
+	"BF dies0013": {
+		"name": "BF dies0013",
+		"width": 439,
+		"height": 445,
+		"x": 4461,
+		"y": 3612
+	},
+	"BF dies0014": {
+		"name": "BF dies0014",
+		"width": 439,
+		"height": 445,
+		"x": 4461,
+		"y": 3612
+	},
+	"BF dies0015": {
+		"name": "BF dies0015",
+		"width": 439,
+		"height": 445,
+		"x": 4900,
+		"y": 3612
+	},
+	"BF dies0016": {
+		"name": "BF dies0016",
+		"width": 439,
+		"height": 445,
+		"x": 4900,
+		"y": 3612
+	},
+	"BF dies0017": {
+		"name": "BF dies0017",
+		"width": 439,
+		"height": 445,
+		"x": 4900,
+		"y": 3612
+	},
+	"BF dies0018": {
+		"name": "BF dies0018",
+		"width": 439,
+		"height": 445,
+		"x": 5339,
+		"y": 3612
+	},
+	"BF dies0019": {
+		"name": "BF dies0019",
+		"width": 439,
+		"height": 445,
+		"x": 5339,
+		"y": 3612
+	},
+	"BF dies0020": {
+		"name": "BF dies0020",
+		"width": 439,
+		"height": 445,
+		"x": 5778,
+		"y": 3612
+	},
+	"BF dies0021": {
+		"name": "BF dies0021",
+		"width": 439,
+		"height": 445,
+		"x": 5778,
+		"y": 3612
+	},
+	"BF dies0022": {
+		"name": "BF dies0022",
+		"width": 439,
+		"height": 445,
+		"x": 6217,
+		"y": 3612
+	},
+	"BF dies0023": {
+		"name": "BF dies0023",
+		"width": 439,
+		"height": 445,
+		"x": 6217,
+		"y": 3612
+	},
+	"BF dies0024": {
+		"name": "BF dies0024",
+		"width": 439,
+		"height": 445,
+		"x": 6656,
+		"y": 3612
+	},
+	"BF dies0025": {
+		"name": "BF dies0025",
+		"width": 439,
+		"height": 445,
+		"x": 7095,
+		"y": 3612
+	},
+	"BF dies0026": {
+		"name": "BF dies0026",
+		"width": 439,
+		"height": 445,
+		"x": 7095,
+		"y": 3612
+	},
+	"BF dies0027": {
+		"name": "BF dies0027",
+		"width": 439,
+		"height": 445,
+		"x": 7534,
+		"y": 3612
+	},
+	"BF dies0028": {
+		"name": "BF dies0028",
+		"width": 439,
+		"height": 445,
+		"x": 7534,
+		"y": 3612
+	},
+	"BF dies0029": {
+		"name": "BF dies0029",
+		"width": 439,
+		"height": 445,
+		"x": 0,
+		"y": 4245
+	},
+	"BF dies0030": {
+		"name": "BF dies0030",
+		"width": 439,
+		"height": 445,
+		"x": 0,
+		"y": 4245
+	},
+	"BF dies0031": {
+		"name": "BF dies0031",
+		"width": 439,
+		"height": 445,
+		"x": 439,
+		"y": 4245
+	},
+	"BF dies0032": {
+		"name": "BF dies0032",
+		"width": 439,
+		"height": 445,
+		"x": 439,
+		"y": 4245
+	},
+	"BF dies0033": {
+		"name": "BF dies0033",
+		"width": 439,
+		"height": 445,
+		"x": 439,
+		"y": 4245
+	},
+	"BF dies0034": {
+		"name": "BF dies0034",
+		"width": 439,
+		"height": 445,
+		"x": 439,
+		"y": 4245
+	},
+	"BF dies0035": {
+		"name": "BF dies0035",
+		"width": 439,
+		"height": 445,
+		"x": 878,
+		"y": 4245
+	},
+	"BF dies0036": {
+		"name": "BF dies0036",
+		"width": 439,
+		"height": 445,
+		"x": 1317,
+		"y": 4245
+	},
+	"BF dies0037": {
+		"name": "BF dies0037",
+		"width": 439,
+		"height": 445,
+		"x": 1756,
+		"y": 4245
+	},
+	"BF dies0038": {
+		"name": "BF dies0038",
+		"width": 439,
+		"height": 445,
+		"x": 2195,
+		"y": 4245
+	},
+	"BF dies0039": {
+		"name": "BF dies0039",
+		"width": 439,
+		"height": 445,
+		"x": 2634,
+		"y": 4245
+	},
+	"BF dies0040": {
+		"name": "BF dies0040",
+		"width": 439,
+		"height": 445,
+		"x": 3073,
+		"y": 4245
+	},
+	"BF dies0041": {
+		"name": "BF dies0041",
+		"width": 439,
+		"height": 445,
+		"x": 3512,
+		"y": 4245
+	},
+	"BF dies0042": {
+		"name": "BF dies0042",
+		"width": 439,
+		"height": 445,
+		"x": 3951,
+		"y": 4245
+	},
+	"BF dies0043": {
+		"name": "BF dies0043",
+		"width": 439,
+		"height": 445,
+		"x": 4390,
+		"y": 4245
+	},
+	"BF dies0044": {
+		"name": "BF dies0044",
+		"width": 439,
+		"height": 445,
+		"x": 4829,
+		"y": 4245
+	},
+	"BF dies0045": {
+		"name": "BF dies0045",
+		"width": 439,
+		"height": 445,
+		"x": 5268,
+		"y": 4245
+	},
+	"BF dies0046": {
+		"name": "BF dies0046",
+		"width": 439,
+		"height": 445,
+		"x": 5707,
+		"y": 4245
+	},
+	"BF dies0047": {
+		"name": "BF dies0047",
+		"width": 439,
+		"height": 445,
+		"x": 6146,
+		"y": 4245
+	},
+	"BF dies0048": {
+		"name": "BF dies0048",
+		"width": 439,
+		"height": 445,
+		"x": 6585,
+		"y": 4245
+	},
+	"BF dies0049": {
+		"name": "BF dies0049",
+		"width": 439,
+		"height": 445,
+		"x": 7024,
+		"y": 4245
+	},
+	"BF dies0050": {
+		"name": "BF dies0050",
+		"width": 439,
+		"height": 445,
+		"x": 7463,
+		"y": 4245
+	},
+	"BF dies0051": {
+		"name": "BF dies0051",
+		"width": 439,
+		"height": 445,
+		"x": 0,
+		"y": 4690
+	},
+	"BF dies0052": {
+		"name": "BF dies0052",
+		"width": 439,
+		"height": 445,
+		"x": 439,
+		"y": 4690
+	},
+	"BF dies0053": {
+		"name": "BF dies0053",
+		"width": 439,
+		"height": 445,
+		"x": 878,
+		"y": 4690
+	},
+	"BF dies0054": {
+		"name": "BF dies0054",
+		"width": 439,
+		"height": 445,
+		"x": 878,
+		"y": 4690
+	},
+	"BF dies0055": {
+		"name": "BF dies0055",
+		"width": 439,
+		"height": 445,
+		"x": 878,
+		"y": 4690
+	},
+	"BF dies0056": {
+		"name": "BF dies0056",
+		"width": 439,
+		"height": 445,
+		"x": 878,
+		"y": 4690
+	},
+	"BF dies0057": {
+		"name": "BF dies0057",
+		"width": 439,
+		"height": 445,
+		"x": 878,
+		"y": 4690
+	},
+	"BF idle dance0000": {
+		"name": "BF idle dance0000",
+		"width": 548,
+		"height": 389,
+		"x": 1317,
+		"y": 4690
+	},
+	"BF idle dance0001": {
+		"name": "BF idle dance0001",
+		"width": 548,
+		"height": 389,
+		"x": 1865,
+		"y": 4690
+	},
+	"BF idle dance0002": {
+		"name": "BF idle dance0002",
+		"width": 548,
+		"height": 389,
+		"x": 2413,
+		"y": 4690
+	},
+	"BF idle dance0003": {
+		"name": "BF idle dance0003",
+		"width": 548,
+		"height": 389,
+		"x": 2961,
+		"y": 4690
+	},
+	"BF idle dance0004": {
+		"name": "BF idle dance0004",
+		"width": 548,
+		"height": 389,
+		"x": 3509,
+		"y": 4690
+	},
+	"BF idle dance0005": {
+		"name": "BF idle dance0005",
+		"width": 548,
+		"height": 389,
+		"x": 4057,
+		"y": 4690
+	},
+	"BF idle dance0006": {
+		"name": "BF idle dance0006",
+		"width": 548,
+		"height": 389,
+		"x": 4605,
+		"y": 4690
+	},
+	"BF idle dance0007": {
+		"name": "BF idle dance0007",
+		"width": 548,
+		"height": 389,
+		"x": 5153,
+		"y": 4690
+	},
+	"BF idle dance0008": {
+		"name": "BF idle dance0008",
+		"width": 548,
+		"height": 389,
+		"x": 5701,
+		"y": 4690
+	},
+	"BF idle dance0009": {
+		"name": "BF idle dance0009",
+		"width": 548,
+		"height": 389,
+		"x": 6249,
+		"y": 4690
+	},
+	"BF idle dance0010": {
+		"name": "BF idle dance0010",
+		"width": 548,
+		"height": 389,
+		"x": 6797,
+		"y": 4690
+	},
+	"BF idle dance0011": {
+		"name": "BF idle dance0011",
+		"width": 548,
+		"height": 389,
+		"x": 7345,
+		"y": 4690
+	},
+	"BF idle dance0012": {
+		"name": "BF idle dance0012",
+		"width": 548,
+		"height": 389,
+		"x": 7345,
+		"y": 4690
+	},
+	"BF idle dance0013": {
+		"name": "BF idle dance0013",
+		"width": 548,
+		"height": 389,
+		"x": 7345,
+		"y": 4690
+	}
+}

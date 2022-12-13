@@ -1,0 +1,15 @@
+{
+  "name": "fng",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "author": "Gvbvdxx",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^20.2.0",
+    "electron-builder": "^23.3.3"
+  }
+}

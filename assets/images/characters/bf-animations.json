@@ -1,0 +1,13 @@
+{
+	"file":"bf",
+	"health_icon": "icon-bf",
+	"idle":"BF idle dance",
+	"left":"BF NOTE LEFT",
+	"right":"BF NOTE RIGHT",
+	"up":"BF NOTE UP",
+	"down":"BF NOTE DOWN",
+	"miss_down":"BF NOTE DOWN MISS",
+	"miss_up":"BF NOTE UP MISS",
+	"miss_left":"BF NOTE LEFT MISS",
+	"miss_right":"BF NOTE RIGHT MISS"
+}
